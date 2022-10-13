@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Customer_Product__c",
+                "referenceId": "Customer_Product__cRef1"
+            },
+            "Name": "Acme CineMate GS Series II Digital Home Theater Speaker System",
+            "Description__c": "Don’t just hear your entertainment. Experience it. Car races, T-Rex steps, explosions — you want to be in the middle of all the action and savor every moment.",
+            "Image__c": "bose_cinemate_home_theater_speaker.png"
+        },
+        {
+            "attributes": {
+                "type": "Customer_Product__c",
+                "referenceId": "Customer_Product__cRef2"
+            },
+            "Name": "Acme Bluetooth Headset Series 2",
+            "Description__c": "You feel it the minute you put them on. The soft, plush cushions seal you in. Then you flip the switch and whoosh — the world fades. The music starts, and it’s love at first listen. That’s the power of our next-gen headphones",
+            "Image__c": "bose_bluetooth_headset.png"
+        }
+    ]
+}

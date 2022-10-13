@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Customer_Product__c",
+                "referenceId": "Customer_Product__cRef1"
+            },
+            "Name": "Acme 161 Bookshelf Speaker System",
+            "Description__c": "Streamlined design. Startling performance.speakers are a versatile option for both music and movie listening. They work with your stereo receiver, but can also serve as front or surround speakers in a component home theater setup.",
+            "Image__c": "bose_bookshelf_speaker_system.png"
+        },
+        {
+            "attributes": {
+                "type": "Customer_Product__c",
+                "referenceId": "Customer_Product__cRef2"
+            },
+            "Name": "Acme Acoustimass 6 Home Entertainment Speaker System (Black)",
+            "Description__c": "Don’t just hear your entertainment. Experience it. Car races, T-Rex steps, explosions — you want to be in the middle of all the action and savor every moment.",
+            "Image__c": "bose_acoustimass.png"
+        }
+    ]
+}

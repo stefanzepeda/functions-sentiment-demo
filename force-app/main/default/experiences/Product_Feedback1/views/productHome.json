@@ -1,0 +1,148 @@
+{
+  "appPageId" : "56c205ea-042c-48af-87f9-ac525616a54b",
+  "componentName" : "siteforce:dynamicLayout",
+  "id" : "f1d6238d-92e9-4155-8205-cf850560a81f",
+  "label" : "ProductHome",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "5201f609-84cf-46f1-b5c5-28516060601d",
+          "columns" : [ {
+            "UUID" : "31412307-b919-487f-8333-6e0df5f0df29",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 32
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "5201f609-84cf-46f1-b5c5-28516060601d",
+      "regions" : [ {
+        "id" : "31412307-b919-487f-8333-6e0df5f0df29",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0) url(/sfsites/c/file-asset/greybanner?v=1) center center /cover",
+        "backgroundOverlay" : "rgba(0, 0, 0, 0.06)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "98c76e30-bf8e-4c68-90a9-3a7695543772",
+          "columns" : [ {
+            "UUID" : "be0ee290-5b30-4b60-850b-4c0c4611f693",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 93
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "98c76e30-bf8e-4c68-90a9-3a7695543772",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "richTextValue" : "<div style=\"background-color:#1c87c9;Color: White; text-align:center;\">\n<br>\n    <div style=\"font-size:38px\">\n       Product Comments and Feedback\n        <div style=\"height:15px;font-size:1px;\">&nbsp;</div>\n    <div style=\"height:15px;font-size:1px;\">&nbsp;</div>\n    <div style=\"height:5px;font-size:1px;\">&nbsp;</div>\n  </div>"
+          },
+          "componentName" : "forceCommunity:htmlBlock",
+          "id" : "96ef6017-dbff-4a3d-980c-b2e66adb61ed",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "be0ee290-5b30-4b60-850b-4c0c4611f693",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "bf89d143-66e0-4d6b-bc14-7d5e038afe16",
+          "columns" : [ {
+            "UUID" : "6e82b73a-cdab-41b6-b04f-919d153ac999",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "bf89d143-66e0-4d6b-bc14-7d5e038afe16",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "allText" : "All",
+            "backgroundColor" : "#FFFFFF",
+            "heightInPx" : "700",
+            "labelColor" : "#000000",
+            "mainTitle" : "",
+            "ratingLabel" : "Rating",
+            "showRating" : false,
+            "showType" : true,
+            "tileBackgroundColor" : "#FFFFFF",
+            "tileLabelColor" : "#000000",
+            "titleColor" : "#000000",
+            "typeLabel" : "Type"
+          },
+          "componentName" : "hztr:Tile_Viewer",
+          "id" : "d1cc0d2b-5385-4d59-aad0-c08d86d667eb",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "6e82b73a-cdab-41b6-b04f-919d153ac999",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4eb0dea7-4e5b-4b13-b7ff-3fc17d0db29e",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "fafff36f-451b-48ad-9c29-65c8dd401310",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7c5ca0e2-a87d-4d5d-bb30-658ff853113a",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}

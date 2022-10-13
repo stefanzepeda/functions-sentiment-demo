@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Customer_Product__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "export-demo3-Customer_Product__cs.json"
+        ]
+    },
+    {
+        "sobject": "Product_Review__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "export-demo3-Product_Review__cs.json"
+        ]
+    }
+]

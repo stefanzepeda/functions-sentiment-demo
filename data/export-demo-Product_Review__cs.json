@@ -1,0 +1,2697 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef1"
+            },
+            "Review__c": "These headphones deliver the same great quality sound as the Quiet Comfort series. While there is some noise cancellation due to the fact that the headphones are over the ear, they are not the same as the Quiet Comfort. I have owned both, and prefer the AE2 due to their weight, same sound quality, and the fact that they don't need a AAA battery is a plus as well.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999998",
+            "Response_Time_ms__c": 2894,
+            "Reviewer_Age__c": 42,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999998,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef2"
+            },
+            "Review__c": "Great!!!",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.957135",
+            "Response_Time_ms__c": 1961,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.957135,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef3"
+            },
+            "Review__c": "I could only hear the lower range-- barely hear the voice range... No one could possibly of check these out for sound quality.",
+            "Review_Date__c": "2020-12-16",
+            "Prediction_Result__c": "0.991956",
+            "Response_Time_ms__c": 1850,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.991956,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef4"
+            },
+            "Review__c": "Almost as good as noise reduction earphones without the issues with batteries etc. Thus great for airplane travel.",
+            "Review_Date__c": "2020-11-29",
+            "Prediction_Result__c": "0.999680",
+            "Response_Time_ms__c": 1299,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99968,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef5"
+            },
+            "Review__c": "Love these earphones",
+            "Review_Date__c": "2020-10-27",
+            "Prediction_Result__c": "0.974160",
+            "Response_Time_ms__c": 1842,
+            "Reviewer_Age__c": 31,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.97416,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef6"
+            },
+            "Review__c": "soft and light",
+            "Review_Date__c": "2020-10-20",
+            "Prediction_Result__c": "0.501112",
+            "Response_Time_ms__c": 1741,
+            "Reviewer_Age__c": 58,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.501112,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef7"
+            },
+            "Review__c": "These are the most comfortable pair of headphones I have ever owned. I was looking to buy a new pair since my previous set hurt my ears to use. As soon as I put these on my head I knew they were perfect. I have never spent so much on a single pair of headphones, despite being something of an audiophile, but I am so glad I made this purchase. I can wear them for hours without the slightest discomfort, and they are also incredibly light, I barely feel them sitting on my head (which is really nice considering I'm recovering from a whiplash neck injury). If anyone is hemhawing about buying them or not, do it! You won't regret it.",
+            "Review_Date__c": "2021-08-13",
+            "Prediction_Result__c": "0.999998",
+            "Response_Time_ms__c": 1724,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999998,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef8"
+            },
+            "Review__c": "High cost performance",
+            "Review_Date__c": "2021-02-25",
+            "Prediction_Result__c": "0.996233",
+            "Response_Time_ms__c": 2313,
+            "Reviewer_Age__c": 65,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.996233,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef9"
+            },
+            "Review__c": "They aren't quite as good as my Quiet Comfort Noise Canceling headphones from 10 years ago (and not nearly as expensive!), but these are still great headphones.  Comfortable with great sound, no battery required, and the cable can be swapped out if broken or if you want to add a microphone to it.  Very happy with this purchase.",
+            "Review_Date__c": "2021-02-04",
+            "Prediction_Result__c": "0.999987",
+            "Response_Time_ms__c": 1246,
+            "Reviewer_Age__c": 72,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999987,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef10"
+            },
+            "Review__c": "Best in the business!!",
+            "Review_Date__c": "2020-11-03",
+            "Prediction_Result__c": "0.984533",
+            "Response_Time_ms__c": 2095,
+            "Reviewer_Age__c": 67,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.984533,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef11"
+            },
+            "Review__c": "Very disappointed.  Bought for my husband. Had a short in thd cord after just a few uses...not that great soundwise either.",
+            "Review_Date__c": "2021-06-17",
+            "Prediction_Result__c": "0.053086",
+            "Response_Time_ms__c": 1327,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.053086,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef12"
+            },
+            "Review__c": "Intermittent dysfunction of the right headphone. Not what I expected from Acme",
+            "Review_Date__c": "2021-03-27",
+            "Prediction_Result__c": "0.991506",
+            "Response_Time_ms__c": 1260,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.991506,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef13"
+            },
+            "Review__c": "Very comfortable, very good quality sound, and very little sound-spill: family could easily sleep through my early morning film editing sessions this winter. Highly recommend.",
+            "Review_Date__c": "2021-02-28",
+            "Prediction_Result__c": "0.999915",
+            "Response_Time_ms__c": 1141,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999915,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef14"
+            },
+            "Review__c": "Very comfortable to wear and the sound is nature. However, the sound leakage is unbearable. At volume level 30% from my PC, i can clearly hear the music coming from the headphone during the test. So if you plan to use it in a public environment, be aware...",
+            "Review_Date__c": "2021-07-21",
+            "Prediction_Result__c": "0.999181",
+            "Response_Time_ms__c": 2858,
+            "Reviewer_Age__c": 69,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999181,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef15"
+            },
+            "Review__c": "good sound, light on the head and hides peripheral noise.",
+            "Review_Date__c": "2021-07-27",
+            "Prediction_Result__c": "0.969969",
+            "Response_Time_ms__c": 3619,
+            "Reviewer_Age__c": 65,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.969969,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef16"
+            },
+            "Review__c": "Have had these for almost a year, now. These are the best headphones I've owned. I have had no issues with the headphones or the cord. Normally, by now with other brands, the cord would be fried. Even though, the cord is super-thin, it is very strong and the detachable aspect is a major plus. Anytime the cord gets caught on something, it snaps away and you just plug it back in and keep going.  Update: I've had these for going on (3) years, now. These are the most amazing headphones EVER!! I cannot tell you how many times, while getting in my car with these around my neck,  that I've arrived at my destination and realized I slammed the cord in the car door. Every time a feeling of dread comes over me, just knowing that I've ruined the cord by slamming it in the car door. I plug them into my phone, hit the music play button and nothing buy musical bliss flows from these Acme AE2.",
+            "Review_Date__c": "2020-12-04",
+            "Prediction_Result__c": "0.999993",
+            "Response_Time_ms__c": 1399,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999993,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef17"
+            },
+            "Review__c": "OK, im an 18 year old in Highschool and I've never written a product review, I will type a bit, but my summary review is:<br />These headphones are wonderful, only leak sound on the highest of volume (which is understandable) and very comfortable and I've certainly got my moneys out of it. I would definitely recommend these over beats 10/10 times and recommend them to any audio lover 10/10 times.<br /><br />So, the length, I received these headphones as my birthday gift when I was 16, and have had them for two and a half years... no complaints whatsoever. I've had the opportunity to try Beats and other competitors products and they just don't compare to the AE2's. I got to pick this present out, and even as a gift from a fairly affluent family, I chose these as apposed to the noise cancellation headphones just because even if its my parents money, I always love to save money. The fact of the matter is, if you have the volume on halfway or higher with these things on... you will not hear anything outside. these are tremendous headphones and if I had to be a picky little bitch about them, I'd say there's not enough foam padding for the headband portion of the product.<br />Im no audio junkie by any means, I travel with my parents a lot and am a woodworker and these serve as my casual and woodworking headphones and I love them.",
+            "Review_Date__c": "2020-12-14",
+            "Prediction_Result__c": "0.355040",
+            "Response_Time_ms__c": 1287,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.35504,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef18"
+            },
+            "Review__c": "I have another set of these headphones...love them and bought a set for my boyfriend!",
+            "Review_Date__c": "2021-02-17",
+            "Prediction_Result__c": "0.883042",
+            "Response_Time_ms__c": 1575,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.883042,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef19"
+            },
+            "Review__c": "I just received these headphones today and I'm already sending them back . The audio is very poor and the volume is not loud at all . I am really disappointed with Acme for these headphones to be over $150 my $10 pair of headphones are louder and better sounding . Amazon on the other hand love the company .",
+            "Review_Date__c": "2020-12-02",
+            "Prediction_Result__c": "0.000020",
+            "Response_Time_ms__c": 2249,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.00002,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef20"
+            },
+            "Review__c": "Yea, woopee, I finally got 'em. Woonerful! You won't be disappointed.",
+            "Review_Date__c": "2020-12-01",
+            "Prediction_Result__c": "0.020316",
+            "Response_Time_ms__c": 1338,
+            "Reviewer_Age__c": 56,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.020316,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef21"
+            },
+            "Review__c": "Excellent sound and comfortable fit around the ear.  Highly recommend.",
+            "Review_Date__c": "2021-02-10",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1897,
+            "Reviewer_Age__c": 45,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef22"
+            },
+            "Review__c": "Great headphones.  Light enough and fantastic sound.",
+            "Review_Date__c": "2020-10-27",
+            "Prediction_Result__c": "0.999574",
+            "Response_Time_ms__c": 2795,
+            "Reviewer_Age__c": 42,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999574,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef23"
+            },
+            "Review__c": "Perfect for my 14 year old son.  He uses them daily.  Got them at Christmas for about $80.",
+            "Review_Date__c": "2021-05-31",
+            "Prediction_Result__c": "0.999952",
+            "Response_Time_ms__c": 2195,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999952,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef24"
+            },
+            "Review__c": "I like it. No mic that is only issue. Other audio quality is good",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.993947",
+            "Response_Time_ms__c": 1163,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.993947,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef25"
+            },
+            "Review__c": "Awesome.... Sound....Best in the Class... If you're a music lover then it's a Must have gazette.",
+            "Review_Date__c": "2021-07-23",
+            "Prediction_Result__c": "0.999978",
+            "Response_Time_ms__c": 1091,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999978,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef26"
+            },
+            "Review__c": "These are great headphones at any price. But, value-for-your-dollar, they're probably the best out there. They have a deep, rich, true sound. They're very light and the pressure on your head is also very light. Just enough for effective passive noise reduction.<br /><br />I also have a pair of Acme QC15 headphones, but I use the AE2s much more frequently for a few reasons. First, this pair is noticeably lighter than the more expensive ones. Partially because the active noise canceling in the QC15s requires a battery. It's only a small AAA battery, but it still adds a bit of weight that you just don't have with these AE2s. So, if there's no ambient noise (i.e. you're at home in a quiet house), then these AE2 headphones sound as good as the much more expensive noise-canceling models. There's no &#34;On-Off&#34; switch with these AE2s, so you're not putting them on only to find a dead battery because you left the switch on. Just plug & play.<br /><br />One thing that I don't care for is the swiveling ear cups. I know it's a personal taste thing and that people who travel with them might find that to be a great feature. But I find it annoying having to un-swivel them out every time I put them on. A minor complaint, but it's the only one I have. My QC15s do the same thing. Just a personal irritation for me.<br /><br />I highly recommend these. If you're giving them as a gift, they will not be disappointed with the quality or performance of these headphones. I suppose some kids would like some crazy colors or blingy look, but I like that these headphones are just matte black & silver. All business, no show.",
+            "Review_Date__c": "2020-12-03",
+            "Prediction_Result__c": "0.978773",
+            "Response_Time_ms__c": 2193,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.978773,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef27"
+            },
+            "Review__c": "I bought these to listen to music on my desktop computer while i work. I listen on spotify (I am a paying subscriber -- I don't know if the sound quality differs for free vs paid but just stating that for the record).<br /><br />These earphones are my first real investment into a better set. I picked this model because it fit my ears quite comfortably compared to the ATH-M50s. I can wear these all day indoors sitting at my computer and not feel any heat build up around my ears. The materials on this headset are plastic but this also helps keep the weight down and also adds to comfort factor. The ear cushions are so good that when I tried out the ATH-M50 on my head it felt really heavy and the ear cushions on the M50 were awful. They felt like a very cheap plastic with barely any cushion or plush feel.<br /><br />After 7 months of use of the Acme AE2 (and purchasing the Fiio E11k portable amp)  I found the ATH-M50 sound quality far superior than the Acme AE2. The drivers in the ATH-M50 are really good and you can crank up the volume all you want the sound composition (its integrity) stays consistent. The sound becomes louder but still so crisp and clear. The Acme AE2 just feel so much more flat compared to the ATH-M50 and don't offer the same sound quality. The sound rendition on the Acme ae2 feels very feeble and cheap. Some days i wonder if they bothered putting any decent technology in the AE2.<br /><br />I'm now looking to the ATH-M50x for my next upgrade because the ear cushions are supposedly more comfortable. I just like the sound rendition on the ATH-M50 better thats all. But in terms of weight and comfort the Acme ae2 are great. I even took them on an airplane and without even playing anything they make travelling in economy class an experience that is easier on your ears. You can cut out background chatter and baby noises. So I will keep this headset as a backup or spare.",
+            "Review_Date__c": "2021-01-12",
+            "Prediction_Result__c": "0.988056",
+            "Response_Time_ms__c": 2098,
+            "Reviewer_Age__c": 65,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.988056,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef28"
+            },
+            "Review__c": "Great headphones for the price.  Very comfortable for listening to music/watching movies for long periods of time.  Solid sound performance for everyday listening.",
+            "Review_Date__c": "2021-02-25",
+            "Prediction_Result__c": "0.999986",
+            "Response_Time_ms__c": 2088,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999986,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef29"
+            },
+            "Review__c": "Perhaps I missed or mis-read something in the product description that I recall as stating something to the effect that production of these headphones had been &#34;discontinued&#34;, and that they would be accompanied by a &#34;bag&#34; for storage. Upon arrival, accompanying documentation indicated that they are &#34;Used-Good&#34; and &#34;does not include case...&#34;  As mentioned, perhaps I just missed reference to these issues, but that's not what I was expecting.<br /><br />Now, that being said, I am very satisfied with the product.  I've previously owned Acme products and am acutely aware of their quality and reputation.  The AE2 headphones I received are no exception.  For the price, I consider them a good value - new or used.  They were received in what I consider to be good condition and they perform well (as I've come to expect from Acme products).  They are not &#34;noise cancelling&#34;, but sound reproduction and ambient noise dampening qualities are good.  I'm not dissatisfied, just a little surprised...",
+            "Review_Date__c": "2021-02-14",
+            "Prediction_Result__c": "0.997668",
+            "Response_Time_ms__c": 1394,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.997668,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef30"
+            },
+            "Review__c": "Arrived quickly from seller! These are just as good as the Acme noise reduction headsets and you don't have to worry about leaving them turned on. I bought them new last year for $95. now they list for $159. don't pay that look for some used ones for less.",
+            "Review_Date__c": "2021-03-05",
+            "Prediction_Result__c": "0.998523",
+            "Response_Time_ms__c": 1881,
+            "Reviewer_Age__c": 41,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.998523,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef31"
+            },
+            "Review__c": "Super great for listening to Classical music. Listening for songs is also good.",
+            "Review_Date__c": "2020-12-06",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 2844,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef32"
+            },
+            "Review__c": "When it's plugged in to any iPad or computer , all I hear is disturbing sounds. I need to wiggle the connection and hold it to actually hear proper sound. It went to this state within 6 months.",
+            "Review_Date__c": "2021-05-23",
+            "Prediction_Result__c": "0.999461",
+            "Response_Time_ms__c": 1978,
+            "Reviewer_Age__c": 72,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999461,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef33"
+            },
+            "Review__c": "I owned the previous version: the tri-ports.<br /><br />Pros:<br /><br />The most comfortable headphones I've ever worn.  I don't say this lightly.  I could wear them all day and not feel a bit of sweat or discomfort, which is odd considering the pad material.  It's just so plush.<br /><br />Maybe the best phone call I've ever made to a company.  The girl was so friendly and when I told her I blew the speaker up with too much bass she simply sent me a pre-paid UPS label in an e-mail with no questions asked.<br /><br />Cons:<br /><br />Price.<br /><br />Thin wire that after about 2 years of heavy usage one of the sides was intermittent.  I threw 'em out when I should've just had them repaired...<br /><br />My Creative Zen Touch (it's 10 years old now, and still works, google it, lol) blew the speakers when I let a buddy try them on and cranked some Eazy-E to the max.  The bass blew 'em out.<br /><br />Thoughts:<br /><br />At the time, I had no experience with high-end speakers/headphones but I remember them sounding &#34;pretty&#34; good.  If you want the most comfortable headphone with fantastic customer service get these.",
+            "Review_Date__c": "2020-12-03",
+            "Prediction_Result__c": "0.999420",
+            "Response_Time_ms__c": 1212,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99942,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef34"
+            },
+            "Review__c": "GOOD~!!",
+            "Review_Date__c": "2021-03-16",
+            "Prediction_Result__c": "0.653573",
+            "Response_Time_ms__c": 1441,
+            "Reviewer_Age__c": 26,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.653573,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef35"
+            },
+            "Review__c": "LOVE Acme...",
+            "Review_Date__c": "2020-12-12",
+            "Prediction_Result__c": "0.800103",
+            "Response_Time_ms__c": 1187,
+            "Reviewer_Age__c": 65,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.800103,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef36"
+            },
+            "Review__c": "One or the best purchases ive ever made",
+            "Review_Date__c": "2021-02-22",
+            "Prediction_Result__c": "0.995779",
+            "Response_Time_ms__c": 1881,
+            "Reviewer_Age__c": 30,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.995779,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef37"
+            },
+            "Review__c": "It was shipped fast! My kids love it!",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.998935",
+            "Response_Time_ms__c": 1617,
+            "Reviewer_Age__c": 40,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998935,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef38"
+            },
+            "Review__c": "Sound is great, fair price. No noise canceling function, but background noise won't distort what you are trying to listen to by too much.",
+            "Review_Date__c": "2021-08-01",
+            "Prediction_Result__c": "0.999915",
+            "Response_Time_ms__c": 1882,
+            "Reviewer_Age__c": 26,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999915,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef39"
+            },
+            "Review__c": "tl;dr Headphones WERE great til they died in only a year<br /><br />Okay so I LOVED this headphones! I am not a big audiophile so I was more concerned with comfort and adequate sound and was blown away with both on this pair of headphones. Unfortunately they don't seem to last. I have only had these for a year and while the headband and earcups have no wear the actual headphones are failing. The left ear is noticeably quieter than the right and no amount of balancing via windows options seem to make a difference. I have never purchased a Acme product before and was told they were the leader in quality and I am just not seeing it. Overall great headphones but go with something else if you want them to last more than a year.",
+            "Review_Date__c": "2020-11-16",
+            "Prediction_Result__c": "0.014878",
+            "Response_Time_ms__c": 1249,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.014878,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef40"
+            },
+            "Review__c": "My niece loves them & uses them on a regular basis. They adjust well so anyone from a 7 years to 90 year old can wear comfortably.<br />I got them for an amazing price, half off the regular price!!!",
+            "Review_Date__c": "2021-03-04",
+            "Prediction_Result__c": "0.999994",
+            "Response_Time_ms__c": 2340,
+            "Reviewer_Age__c": 73,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999994,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef41"
+            },
+            "Review__c": "Great seller and great product",
+            "Review_Date__c": "2021-01-01",
+            "Prediction_Result__c": "0.999997",
+            "Response_Time_ms__c": 2908,
+            "Reviewer_Age__c": 68,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999997,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef42"
+            },
+            "Review__c": "Excelente!!!",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.653573",
+            "Response_Time_ms__c": 6113,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.653573,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef43"
+            },
+            "Review__c": "Good fit, good sound at a great price.  Fast delivery too.",
+            "Review_Date__c": "2020-12-29",
+            "Prediction_Result__c": "0.999105",
+            "Response_Time_ms__c": 2101,
+            "Reviewer_Age__c": 68,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999105,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef44"
+            },
+            "Review__c": "Good product.",
+            "Review_Date__c": "2020-12-07",
+            "Prediction_Result__c": "0.956323",
+            "Response_Time_ms__c": 2202,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.956323,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef45"
+            },
+            "Review__c": "I was initially swayed by the Beats Solo HD but I'm not looking for cool headphones, I'm looking for great comfort, strong build, superior sound quality. The Acme has it all. I was lucky enough to pick this baby up for $80 (Amazon BlackFriday deal) and I can guarantee there is no better headphone in the world at that price.",
+            "Review_Date__c": "2020-12-06",
+            "Prediction_Result__c": "0.999730",
+            "Response_Time_ms__c": 2813,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99973,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef46"
+            },
+            "Review__c": "Awesome and super light. Needs more bass.",
+            "Review_Date__c": "2021-04-24",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 2348,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef47"
+            },
+            "Review__c": "The best headphones that you can buy but for unknown reason don't work with my ipod",
+            "Review_Date__c": "2020-12-10",
+            "Prediction_Result__c": "0.999889",
+            "Response_Time_ms__c": 1320,
+            "Reviewer_Age__c": 33,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999889,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef48"
+            },
+            "Review__c": "Extremely bland and mediocre sound. Takes joy out of listening to music. So even though these are so comfy, I still ended up returning them.",
+            "Review_Date__c": "2020-12-14",
+            "Prediction_Result__c": "0.000131",
+            "Response_Time_ms__c": 2801,
+            "Reviewer_Age__c": 65,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.000131,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef49"
+            },
+            "Review__c": "Wasn't noice cancelling....had to return.",
+            "Review_Date__c": "2020-12-15",
+            "Prediction_Result__c": "0.724701",
+            "Response_Time_ms__c": 1555,
+            "Reviewer_Age__c": 57,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.724701,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef50"
+            },
+            "Review__c": "Good products.",
+            "Review_Date__c": "2021-02-23",
+            "Prediction_Result__c": "0.942554",
+            "Response_Time_ms__c": 2114,
+            "Reviewer_Age__c": 72,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.942554,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef51"
+            },
+            "Review__c": "The Acme AE2 headphones and on the lower end of the Acme headphone family but don't let the cheap price fool you.  When I purchased these 3 years ago I never thought I would still have them 3 years later or love them as much as I do.<br /><br />These headphones are very comfortable and lightweight.  The sound is pretty incredible with a good amount of bass.  These still get a lot of use and have held up very well.",
+            "Review_Date__c": "2021-07-12",
+            "Prediction_Result__c": "0.997714",
+            "Response_Time_ms__c": 2002,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.997714,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef52"
+            },
+            "Review__c": "Gave this headphone as a gift and the recipient loves it.",
+            "Review_Date__c": "2021-02-06",
+            "Prediction_Result__c": "0.366831",
+            "Response_Time_ms__c": 1275,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.366831,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef53"
+            },
+            "Review__c": "Love this purchase. The soft ear covers are very comfortable and the sound is amazing. Would recommend to anyone looking for a nice set of ear phones .",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999996",
+            "Response_Time_ms__c": 2504,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999996,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef54"
+            },
+            "Review__c": "Returned and go Beats Studio over the ear instead.",
+            "Review_Date__c": "2020-11-01",
+            "Prediction_Result__c": "0.469787",
+            "Response_Time_ms__c": 3241,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.469787,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef55"
+            },
+            "Review__c": "Excellent sound. Headphones were just as advertised.",
+            "Review_Date__c": "2020-10-26",
+            "Prediction_Result__c": "0.999998",
+            "Response_Time_ms__c": 1172,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999998,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef56"
+            },
+            "Review__c": "Nothing in this price range beats it in comfort.",
+            "Review_Date__c": "2020-10-21",
+            "Prediction_Result__c": "0.999327",
+            "Response_Time_ms__c": 1902,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999327,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef57"
+            },
+            "Review__c": "I love these headphones! the comfort and sound are just perfect for me. I use them to listen to my books being read back to me during the editing phase. Really helps to figure out the flow of the book and I hadn't realized how much my earbuds were interfering with that until I put on these AE2 earphones. There may be newer models out, but you can't go wrong with these for comfort, sound quality and durability.",
+            "Review_Date__c": "2021-02-14",
+            "Prediction_Result__c": "0.999999",
+            "Response_Time_ms__c": 2932,
+            "Reviewer_Age__c": 48,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999999,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef58"
+            },
+            "Review__c": "Nice set, clear and well built",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.063928",
+            "Response_Time_ms__c": 3466,
+            "Reviewer_Age__c": 57,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.063928,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef59"
+            },
+            "Review__c": "Awesome",
+            "Review_Date__c": "2020-12-19",
+            "Prediction_Result__c": "0.995307",
+            "Response_Time_ms__c": 3151,
+            "Reviewer_Age__c": 46,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.995307,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef60"
+            },
+            "Review__c": "Just to start off, I'm not here to bash on Acme at all. I love them. I just know that this product isn't as good as other Acme products.<br /><br />The headphone feels light and one may even consider call it flimsy, but the build construction is solid and earcups fold flat for easier portability. We may all wish that it folded up all the way, but good enough. Inside the earcups, it's hollow and there's a sense of... &#34;hm something's not right.&#34; However, those thoughts disappear when you put it on your head. The cushions on the earcups and on top of the band are extremely comfortable and I've found it to be comfortable wearing it for many hours even with my glasses. Out of so many headphones I've tried, this is one of the most comfortable over the ear headphones and I'd definitely recommend for a long hours of work or even to keep your ears warm on a cold day in place of earmuffs!<br /><br />Sound is decent. I'm no audiophile and won't be doing any scientific tests, but I could tell you that the sound I hear is not bad, while not amazing. Because of my expectation that comes with the amazing sound I hear on Acme IE2, it doesn't quite meet it at all. That doesn't mean it's bad either however, just not as good as Acme's other products.<br /><br />Aside from that, it's a good set of headphones. The lightweight construction and soft paddings allow comfortable and long lasting usage, and wire only dangles from one side of the headphones so that it won't get in your way when you're eating or something. If you'd like, you can upgrade this set to a Acme AE2i by replacing the cable with a AE2 inline remote and microphone cable as easily as unplugging the original and plugging the new one back in. +1 for having that option even though that wire with remote and mic is a bit pricy. One may also wish it came with a sturdy case to protect the headphones like the ones that come with Acme QuietComfort 15. The drawstring one that comes with AE2 will protect from scratches and blemishes from physical contact, but it won't stop a heavy object possibly crushing it in a bag.<br /><br />In overall, if you're looking for a comfortable set of headphones that will last you a long time, go for it. But if you're more of a bass person or an audiophile, maybe not. Its comfortable paddings, long and thin cable all add up to a very lightweight and portable headphones that will be pleasant to wear. I wish they had made it a bit more premium like the Acme logo that could've been something better than printed label that may fade over time, and inside of the earcups that don't look like a high-end set. It does some noise reduction simply because it covers up both ears, but it's no QC15 or Harman Kardon's NC. I'd personally go for Acme IE2 instead since a cheaper product is able to produce better sound in my opinion, but AE2 is surely so comfortable that you need to try it on yourself to believe it.<br /><br />Check out the full review on Normal Consumer. Thanks for reading!t, but it won't stop a heavy object possibly crushing it in a bag.  In overall, if you're looking for a comfortable set of headphones that will last you a long time, go for it. But if you're more of a bass person or an audiophile, maybe not. Its comfortable paddings, long and thin cable all add up to a very lightweight and portable headphones that will be pleasant to wear. I wish they had made it a bit more premium like the Acme logo that could've been something better than printed label that may fade over time, and inside of the earcups that don't look like a high-end set. It does some noise reduction simply because it covers up both ears, but it's no QC15 or Harman Kardon's NC. I'd personally go for Acme IE2 instead since a cheaper product is able to produce better sound in my opinion, but AE2 is surely so comfortable that you need to try it on yourself to believe it.  Check out the full review on Normal Consumer. Thanks for reading!",
+            "Review_Date__c": "2020-11-09",
+            "Prediction_Result__c": "0.920579",
+            "Response_Time_ms__c": 1855,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.920579,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef61"
+            },
+            "Review__c": "great sound and very comfortable to wear. Worth the money and of course you can't go wrong with Acme products anyway. A great way to listen to your music. I highly recommend these headphones. They are not noise canceling but I didn't care.",
+            "Review_Date__c": "2021-01-19",
+            "Prediction_Result__c": "0.999995",
+            "Response_Time_ms__c": 1493,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999995,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef62"
+            },
+            "Review__c": "awesome quality. surround sound out of headphones is fantastic. will be buying more.",
+            "Review_Date__c": "2020-12-29",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1982,
+            "Reviewer_Age__c": 55,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef63"
+            },
+            "Review__c": "My 19 year old daughter loves these",
+            "Review_Date__c": "2021-04-09",
+            "Prediction_Result__c": "0.144436",
+            "Response_Time_ms__c": 1185,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.144436,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef64"
+            },
+            "Review__c": "comfort fit, better than OE model",
+            "Review_Date__c": "2021-02-17",
+            "Prediction_Result__c": "0.986148",
+            "Response_Time_ms__c": 1120,
+            "Reviewer_Age__c": 49,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.986148,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef65"
+            },
+            "Review__c": "Love these headphones!  Great sound, very comfortable, easy to use.  Arrived quickly!  Great service!",
+            "Review_Date__c": "2021-01-01",
+            "Prediction_Result__c": "0.999991",
+            "Response_Time_ms__c": 1200,
+            "Reviewer_Age__c": 55,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999991,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef66"
+            },
+            "Review__c": "Cheap...terrible...sent it back...",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.878142",
+            "Response_Time_ms__c": 1287,
+            "Reviewer_Age__c": 49,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.878142,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef67"
+            },
+            "Review__c": "Nice headphone and sound is very amazing.",
+            "Review_Date__c": "2020-12-05",
+            "Prediction_Result__c": "0.999987",
+            "Response_Time_ms__c": 2229,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999987,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef68"
+            },
+            "Review__c": "Nice headphone and sound is very amazing.",
+            "Review_Date__c": "2021-03-06",
+            "Prediction_Result__c": "0.999987",
+            "Response_Time_ms__c": 1319,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999987,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef69"
+            },
+            "Review__c": "Not quite what I was looking for. If you are looking for the sound cancelling version... this is not it. Spend the few extra dollars to get the ones you really want.<br />With that said these are decent headphones.",
+            "Review_Date__c": "2020-12-29",
+            "Prediction_Result__c": "0.000151",
+            "Response_Time_ms__c": 1268,
+            "Reviewer_Age__c": 48,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.000151,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef70"
+            },
+            "Review__c": "Sound quality is not the best as Acme is know for.  It is fairly comfortable to wear for a short while.  Should be noise canceling, but it is not.",
+            "Review_Date__c": "2020-12-13",
+            "Prediction_Result__c": "0.999385",
+            "Response_Time_ms__c": 2322,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999385,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef71"
+            },
+            "Review__c": "Used these for 13 hours on a flight to Europe.  A baby cried the entire trip, except when he was asleep for 2 hours.  They didn't drown out all the sound, but they sure kept me sane.  They are very comfortable, too.",
+            "Review_Date__c": "2021-08-31",
+            "Prediction_Result__c": "0.719239",
+            "Response_Time_ms__c": 1445,
+            "Reviewer_Age__c": 29,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.719239,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef72"
+            },
+            "Review__c": "Great Quality.  Shipping was excellent.",
+            "Review_Date__c": "2021-05-12",
+            "Prediction_Result__c": "0.999679",
+            "Response_Time_ms__c": 1867,
+            "Reviewer_Age__c": 64,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999679,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef73"
+            },
+            "Review__c": "Very comfortable, but the volume is a little bit low, and so is the bass.  Anyway, very nice product.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999860",
+            "Response_Time_ms__c": 2591,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99986,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef74"
+            },
+            "Review__c": "cheap and sound is perfect",
+            "Review_Date__c": "2021-02-03",
+            "Prediction_Result__c": "0.993144",
+            "Response_Time_ms__c": 2658,
+            "Reviewer_Age__c": 41,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.993144,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef75"
+            },
+            "Review__c": "Could not be more happy with the price (black friday was half off) and the quality. Always wanted Acme without the insane price tags, and now i can enjoy high quality music :)",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999672",
+            "Response_Time_ms__c": 1012,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999672,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef76"
+            },
+            "Review__c": "Acme or nothing...lol",
+            "Review_Date__c": "2020-12-29",
+            "Prediction_Result__c": "0.262466",
+            "Response_Time_ms__c": 1429,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.262466,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef77"
+            },
+            "Review__c": "I purchased the the AE2 Around-Ear Audio Headphones a couple of years ago to use with my iPod. I loved them. My son bought me a electronic piano, and these headphones make it all the more pleasurable to play. My son and his partner use the AE2's while here, and both rave about them, so much so that I bought her a set for last Christmas. This Christmas I'm buying another pair for another gift. I'm not a tech, but I know what I like. I've worn these on several trans-Atlantic flights, with no discomfort and no problem from airplane noise. But I can still hear when my travel companion speaks to me.",
+            "Review_Date__c": "2020-12-01",
+            "Prediction_Result__c": "0.931198",
+            "Response_Time_ms__c": 3693,
+            "Reviewer_Age__c": 30,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.931198,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef78"
+            },
+            "Review__c": "These lasted one month and right side just stopped working...  no sound, no stereo, no good.",
+            "Review_Date__c": "2021-02-08",
+            "Prediction_Result__c": "0.034939",
+            "Response_Time_ms__c": 2296,
+            "Reviewer_Age__c": 29,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.034939,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef79"
+            },
+            "Review__c": "The quality of the headphones is far better than any headphones I've tried.  It's a very good quality set of headphones, and I recommend it to anyone.  I may not be an expert on sound engineering, but it doesn't take one to know that this pair is a very good pair.  I recommend it to anyone!",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999968",
+            "Response_Time_ms__c": 2096,
+            "Reviewer_Age__c": 42,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999968,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef80"
+            },
+            "Review__c": "Acme quality...I recommend",
+            "Review_Date__c": "2020-12-29",
+            "Prediction_Result__c": "0.177024",
+            "Response_Time_ms__c": 1859,
+            "Reviewer_Age__c": 74,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.177024,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef81"
+            },
+            "Review__c": "I've had these headphones for over five years and they still work great. They are very durable- I throw them in my bag, take them to the pool, and go running. Great if you want to abuse a pair of headphones but still want sound quality.<br /><br />The removable cord is a crucial feature: my dog chewed through one and it was easy to replace.<br /><br />Only con is the price, but it is well worth it if you can afford it or snag it on sale.",
+            "Review_Date__c": "2020-11-26",
+            "Prediction_Result__c": "0.999995",
+            "Response_Time_ms__c": 3512,
+            "Reviewer_Age__c": 30,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999995,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef82"
+            },
+            "Review__c": "Great product. Love it.",
+            "Review_Date__c": "2021-08-25",
+            "Prediction_Result__c": "0.999997",
+            "Response_Time_ms__c": 1984,
+            "Reviewer_Age__c": 49,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999997,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef83"
+            },
+            "Review__c": "Nice frequency response,  clear sound, lightweight. Comfortable and can still hear outside environment but that is what I needed for work. If noise isolation is needed, I use 3 M work tunes or a noise canceling headset. Cable is lightweight but replaceable.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.000643",
+            "Response_Time_ms__c": 1398,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.000643,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef84"
+            },
+            "Review__c": "Bought these as a present for my daughters this year on a promotion from Amazon.  They work great and fit comfortably.  Acme headphones for about $80 - you can keep the Beats, literally.",
+            "Review_Date__c": "2020-12-30",
+            "Prediction_Result__c": "0.999587",
+            "Response_Time_ms__c": 1924,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999587,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef85"
+            },
+            "Review__c": "Thin and light with great sound",
+            "Review_Date__c": "2021-06-08",
+            "Prediction_Result__c": "0.988710",
+            "Response_Time_ms__c": 1559,
+            "Reviewer_Age__c": 55,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.98871,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef86"
+            },
+            "Review__c": "Good product n quality",
+            "Review_Date__c": "2021-01-01",
+            "Prediction_Result__c": "0.698751",
+            "Response_Time_ms__c": 1673,
+            "Reviewer_Age__c": 57,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.698751,
+            "Star_Rating__c": "3",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef87"
+            },
+            "Review__c": "I love these headphones, very comfortable and the quality of the sound is amazing. Well worth it investment.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1303,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 1,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef88"
+            },
+            "Review__c": "This was a Christmas gift for my son. I got the headphones at a really nice discounted price, which is why I could not pass up the opportunity to get him a Acme product. In short, he LOVES these headphones. Great product and I am so glad I purchased them for him. I would recommend these to anybody that wants a great Acme product but doesn't want to spend an arm and a leg for it.",
+            "Review_Date__c": "2020-12-26",
+            "Prediction_Result__c": "0.999986",
+            "Response_Time_ms__c": 1994,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999986,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef89"
+            },
+            "Review__c": "They work great.Like a brand new.<br /><br />Thank You",
+            "Review_Date__c": "2020-12-21",
+            "Prediction_Result__c": "0.018158",
+            "Response_Time_ms__c": 1991,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.018158,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef90"
+            },
+            "Review__c": "This review is going to be very detailed for anyone debating on buying these headphones.    I figured since I have never reviewed these headphones since I bought them and have owned them for 3 years that I should share my opinion. I have owned these headphones since December 5th of 2012, one day shortly after my 17th birthday, and I am still VERY happy with these. Of course just like any good review this will be unbiased with considerable cons. Every small paragraph will consist of different parts of the headphones.    Performance  The performance of these headphones are amazing. Do not let the price fool you, these headphones will exceed your every expectation, I promise.",
+            "Review_Date__c": "2020-12-16",
+            "Prediction_Result__c": "0.999969",
+            "Response_Time_ms__c": 1661,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999969,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef91"
+            },
+            "Review__c": "Excellent sound with a lightweight, comfortable fit",
+            "Review_Date__c": "2020-12-12",
+            "Prediction_Result__c": "0.999567",
+            "Response_Time_ms__c": 1556,
+            "Reviewer_Age__c": 49,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999567,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef92"
+            },
+            "Review__c": "I have had these headphones for years and I absolutely love them.  The sound quality, the most important part, is great and not overly base heavy. They're durable while still being as sleek as headphones can be.  Also, I find that they're very comfortable and don't slip off because of the shape and cushion on the top.",
+            "Review_Date__c": "2020-12-11",
+            "Prediction_Result__c": "0.999852",
+            "Response_Time_ms__c": 2363,
+            "Reviewer_Age__c": 58,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999852,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef93"
+            },
+            "Review__c": "Best headphones ever!!!!!!!!!!!!!",
+            "Review_Date__c": "2020-11-22",
+            "Prediction_Result__c": "0.999810",
+            "Response_Time_ms__c": 1928,
+            "Reviewer_Age__c": 29,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99981,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef94"
+            },
+            "Review__c": "This Headphone is great as heck. Comfortable as heck. LOVE IT.",
+            "Review_Date__c": "2020-11-30",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1217,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 1,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef95"
+            },
+            "Review__c": "I have owned these for about 3.5 years now, here is a brief overview of my experience:<br /><br />You can probably get better headphones for the money, Acme pays a lot for marketing and you're paying a little bit for that. But, when I bought these, $150 was a lot to me. I wanted to try the headphones first before I bought them, and there was no way for me to try out other brands at local stores so I ended up going with these.<br /><br />Pros:<br />-Sound is good. I honestly don't have a benchmark, but it was leagues above anything I had heard before.<br />-Very comfortable. Not just saying that. Thousands of hours of wearing these and I never once though &#34;this is uncomfortable.&#34;<br />-Padding doubles as earmuffs in cold weather (not even kidding, this has been very useful for me...)<br />-While these are not noise cancelling headphones, the padding dampens out certain background frequencies ver well<br />-One time I snapped the cable by accident (it is detachable, so you won't wreck the headphones in this situation), and was pleased to learn a new cable is only $7. They don't try and stiff you on the cost of parts.<br /><br />Cons:<br />-About 3 years into ownership, the sound started to get fuzzy unless I adjust the (detachable) cable to just the right position. I imagine it will completely die soon, it's been getting worse.<br />-All of the padding is very faded and the Acme logo rubbed off<br /><br />Considering how long I've had these, I wouldn't even consider these cons too big of a deal. I've easily listened to thousands of hours of music on these things.<br /><br />While I am happy with my AE2s, I will never buy Acme headphones again. Their new Soundtrue headphones are the same exact thing soundwise (stated by a Acme rep), but they are more expensive and the only thing they have changed is the color. That kind of marketing is ridiculous and pathetic. 4 years of the AE2s being out and all they could do was change the color? Either buy the &#34;old&#34;AE2s for less, or take your money elsewhere.",
+            "Review_Date__c": "2020-11-20",
+            "Prediction_Result__c": "0.000051",
+            "Response_Time_ms__c": 1120,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.000051,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef96"
+            },
+            "Review__c": "My husband LOVES this headset. Uses it with his tablet ALL the time. Sound is true Acme.",
+            "Review_Date__c": "2021-01-01",
+            "Prediction_Result__c": "0.999785",
+            "Response_Time_ms__c": 1512,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999785,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef97"
+            },
+            "Review__c": "Excelente.",
+            "Review_Date__c": "2020-12-28",
+            "Prediction_Result__c": "0.653573",
+            "Response_Time_ms__c": 1352,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.653573,
+            "Star_Rating__c": "3",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef98"
+            },
+            "Review__c": "5 stars with product and shipping as well",
+            "Review_Date__c": "2020-12-01",
+            "Prediction_Result__c": "0.932787",
+            "Response_Time_ms__c": 2388,
+            "Reviewer_Age__c": 64,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.932787,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef99"
+            },
+            "Review__c": "I don't need huge, thumping sound.  Clarity with accurate reproduction so much more desirable.  Lightweight, comfortable and great sound.  Perfect combination for me !",
+            "Review_Date__c": "2020-11-30",
+            "Prediction_Result__c": "0.999991",
+            "Response_Time_ms__c": 2362,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999991,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef100"
+            },
+            "Review__c": "Not so much.",
+            "Review_Date__c": "2020-10-17",
+            "Prediction_Result__c": "0.147279",
+            "Response_Time_ms__c": 1099,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.147279,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef101"
+            },
+            "Review__c": "Received these as a gift for Christmas to replace some aging Panasonic around-the-ear headphones. Very disappointed in the bass range and overall sound of the AE2. Sent them back and looking for something better.",
+            "Review_Date__c": "2021-01-09",
+            "Prediction_Result__c": "0.974216",
+            "Response_Time_ms__c": 1194,
+            "Reviewer_Age__c": 48,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.974216,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef102"
+            },
+            "Review__c": "Great price very good condition.",
+            "Review_Date__c": "2021-03-02",
+            "Prediction_Result__c": "0.999987",
+            "Response_Time_ms__c": 2763,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999987,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef103"
+            },
+            "Review__c": "Not the quality of sound I expect from Acme",
+            "Review_Date__c": "2020-12-02",
+            "Prediction_Result__c": "0.664069",
+            "Response_Time_ms__c": 2545,
+            "Reviewer_Age__c": 37,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.664069,
+            "Star_Rating__c": "3",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef104"
+            },
+            "Review__c": "I did not realize these were NOT noise cancelling, so I returned them.",
+            "Review_Date__c": "2021-01-01",
+            "Prediction_Result__c": "0.000639",
+            "Response_Time_ms__c": 4675,
+            "Reviewer_Age__c": 56,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.000639,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef105"
+            },
+            "Review__c": "These headphones are THE best ones I have ever owned! Clear, crisp sound and they do not hurt my ears or my head. Love them and highly recommend them!",
+            "Review_Date__c": "2020-12-09",
+            "Prediction_Result__c": "0.999997",
+            "Response_Time_ms__c": 1181,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999997,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef106"
+            },
+            "Review__c": "great",
+            "Review_Date__c": "2020-11-08",
+            "Prediction_Result__c": "0.957135",
+            "Response_Time_ms__c": 1118,
+            "Reviewer_Age__c": 39,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.957135,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef107"
+            },
+            "Review__c": "my sons 20 dollar headphones a better sound than the Acme. If you want to here good bass you have to squeeze them to your ears",
+            "Review_Date__c": "2021-04-13",
+            "Prediction_Result__c": "0.009869",
+            "Response_Time_ms__c": 1499,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.009869,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef108"
+            },
+            "Review__c": "Awesome headphones, Acme is really a great product. This is the 3rd product from Acme I have, and its just worth to save up a little and pay for there products.",
+            "Review_Date__c": "2021-03-26",
+            "Prediction_Result__c": "0.999918",
+            "Response_Time_ms__c": 1528,
+            "Reviewer_Age__c": 31,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999918,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef109"
+            },
+            "Review__c": "Got these on sale at a great price, best sounding headphones I have ever had. 4 stars due to the fact that they only come with a bag for travel and storage, I bought a hard case on amazon and am well pleased.<br /><br />In the end, they are true to sound and absolutely the most comfortable headphones I have ever owned. Others I have had pinch somewhere or cause some discomfort after a hour or so of use.",
+            "Review_Date__c": "2020-12-08",
+            "Prediction_Result__c": "0.997059",
+            "Response_Time_ms__c": 1791,
+            "Reviewer_Age__c": 26,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.997059,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef110"
+            },
+            "Review__c": "I love these! I use these headphones at work and at home!",
+            "Review_Date__c": "2021-06-03",
+            "Prediction_Result__c": "0.930078",
+            "Response_Time_ms__c": 1324,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.930078,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef111"
+            },
+            "Review__c": "Love Acme. Best product",
+            "Review_Date__c": "2021-04-16",
+            "Prediction_Result__c": "0.999015",
+            "Response_Time_ms__c": 2315,
+            "Reviewer_Age__c": 29,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999015,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef112"
+            },
+            "Review__c": "My fault for not noticing that it was wired - I wanted wireless.  I also needed something to use for viewing shows on the television.  Not a headphone for music.  I'm sure it is a great item for music.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999398",
+            "Response_Time_ms__c": 3048,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999398,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef113"
+            },
+            "Review__c": "Great sound quality. Unbelievably comfortable to wear. Plenty of room so that the ears are not touching the edges (which leads to a lot of discomfort). The ear cup is plush and squishy and makes it easy to wear for long period of time. Even though the headphones do not have active noise cancellation they block out a lot of noise. The sound is very clear, but a little weak on the bass. There is no hard case which makes no sense.",
+            "Review_Date__c": "2020-12-09",
+            "Prediction_Result__c": "0.160624",
+            "Response_Time_ms__c": 1850,
+            "Reviewer_Age__c": 55,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.160624,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef114"
+            },
+            "Review__c": "The sound is great however the following can make it unreliable.<br />the chord is really &#34;skinny&#34; and fragile looking, I don't think it will last long enough. Maybe Acme made this so that customers will return when it is broken.",
+            "Review_Date__c": "2020-12-04",
+            "Prediction_Result__c": "0.999986",
+            "Response_Time_ms__c": 2636,
+            "Reviewer_Age__c": 30,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999986,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef115"
+            },
+            "Review__c": "Like many other things, headphones are a matter of taste. I've got Acme speakers & ear buds, and Sony surround sound & a variety of Sony headphones per my own taste. Tried various styles of buds, on-ear, and over-the-ear models. Had my eye on these headphones for awhile, and on Amazon Black Friday scored the best deal I've ever seen. Including at a big box club store. I jumped on an early Christmas present for myself and glad I did. Wow. These are the most comfortable and best quality headphones I've ever owned, and the sound quality can't be beat IMO. Sony's aren't bad, but with the Acme I hear so much more range and clarity it's like my music is all new. I think I paid  $80 for them...they're worth twice that in terms of sound quality. Highly recommended.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1508,
+            "Reviewer_Age__c": 46,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef116"
+            },
+            "Review__c": "Little too much base",
+            "Review_Date__c": "2021-01-01",
+            "Prediction_Result__c": "0.040818",
+            "Response_Time_ms__c": 1214,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.040818,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef117"
+            },
+            "Review__c": "I got these 50% off.  I love them",
+            "Review_Date__c": "2021-08-15",
+            "Prediction_Result__c": "0.988759",
+            "Response_Time_ms__c": 2938,
+            "Reviewer_Age__c": 56,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.988759,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef118"
+            },
+            "Review__c": "Acme are good but I might have gotten a bad one",
+            "Review_Date__c": "2021-07-08",
+            "Prediction_Result__c": "0.000923",
+            "Response_Time_ms__c": 1933,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.000923,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef119"
+            },
+            "Review__c": "better than new for one third the price!",
+            "Review_Date__c": "2020-11-19",
+            "Prediction_Result__c": "0.986953",
+            "Response_Time_ms__c": 1553,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.986953,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef120"
+            },
+            "Review__c": "Not loud enough, and not Acme standards for construction. I sent them back.",
+            "Review_Date__c": "2021-07-25",
+            "Prediction_Result__c": "0.089826",
+            "Response_Time_ms__c": 2210,
+            "Reviewer_Age__c": 74,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.089826,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef121"
+            },
+            "Review__c": "Love them!",
+            "Review_Date__c": "2021-03-01",
+            "Prediction_Result__c": "0.924412",
+            "Response_Time_ms__c": 3611,
+            "Reviewer_Age__c": 73,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.924412,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef122"
+            },
+            "Review__c": "Great sound & comfortable!  Love!",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999957",
+            "Response_Time_ms__c": 1873,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999957,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef123"
+            },
+            "Review__c": "Was wearing the headphones when my dog ran through the cord, pulling out the cord from the headphones. I thought they were ruined, but the cord plugged back into the headphones and worked just fine. All to say, they're functionally tough!",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.416635",
+            "Response_Time_ms__c": 2544,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.416635,
+            "Star_Rating__c": "2",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef124"
+            },
+            "Review__c": "These really are fantastic. I never owned a pair of Acme earphones, and usually only purchased $25 headphones, thinking they would be sufficient. I was wrong. These sound so good, music is rich and full. Bass is deep without sounding overdone, mid and high ranges are great. Full sound, it feels like I'm right there in the room. They are very comfortable too, I wore them for 3 hours straight and didn't mind at all. They are NOT noise cancelling but because of their good sound and superb fit they do filter out a bit of outside noise. So unless you travel on planes a lot, I don't think you'd mind the noise cancelling not being here.",
+            "Review_Date__c": "2020-12-06",
+            "Prediction_Result__c": "0.832002",
+            "Response_Time_ms__c": 4763,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.832002,
+            "Star_Rating__c": "4",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef125"
+            },
+            "Review__c": "They where  Great i give it  The hold six stars !!!",
+            "Review_Date__c": "2021-08-31",
+            "Prediction_Result__c": "0.999974",
+            "Response_Time_ms__c": 1434,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999974,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef126"
+            },
+            "Review__c": "These changed our life.  We couldn't watch movies without closed captions before, now we can.  He takes it to theaters and gets their amp. but uses these.  I wear them at night while he's sleeping.  Wonderful.",
+            "Review_Date__c": "2021-08-12",
+            "Prediction_Result__c": "0.030481",
+            "Response_Time_ms__c": 1311,
+            "Reviewer_Age__c": 69,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.030481,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef127"
+            },
+            "Review__c": "Purchased as a gift over holidays and my son really appreciates the quality of these headphones.  We have several Acme products and have yet to be disappointed.  I have the noise cancelling version and would not buy anything else.",
+            "Review_Date__c": "2021-04-10",
+            "Prediction_Result__c": "0.262191",
+            "Response_Time_ms__c": 1153,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.262191,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef128"
+            },
+            "Review__c": "using this regularly when i workout in Gym, very good product",
+            "Review_Date__c": "2021-08-09",
+            "Prediction_Result__c": "0.994441",
+            "Response_Time_ms__c": 2423,
+            "Reviewer_Age__c": 57,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.994441,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef129"
+            },
+            "Review__c": "I have used it for 7 months now, and loved it. Great sound, very comfortable. This is better than my other headphones for sure, and part of the reason I give it five stars was because I got it for almost half of the regular price during the Thanksgivings sales. If you can wait for a sale then get it, you will enjoy much better sound while listening to music on your phone, or watching a movie on your Roku or computer.<br /><br />I would have given it four stars if I had paid it full price.",
+            "Review_Date__c": "2021-07-18",
+            "Prediction_Result__c": "0.999991",
+            "Response_Time_ms__c": 3331,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999991,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef130"
+            },
+            "Review__c": "love it",
+            "Review_Date__c": "2021-07-15",
+            "Prediction_Result__c": "0.992680",
+            "Response_Time_ms__c": 1345,
+            "Reviewer_Age__c": 26,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99268,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef131"
+            },
+            "Review__c": "Bought two as gifts and both parties LOVE these.",
+            "Review_Date__c": "2021-05-12",
+            "Prediction_Result__c": "0.968953",
+            "Response_Time_ms__c": 1297,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.968953,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef132"
+            },
+            "Review__c": "Highest quality headphones I have ever used!  There isn't an unbalanced bass explosion like with most expensive headphones. They are not heavy or bulky, they are so light and comfortable. I'm finding myself rediscovering how much I love music with these!!!<br />My only comment, which is probably a plus for a lot of people, is the headphone cord is extra long, like a foot or two longer than normal. I got it caught on a few things because I'm a Bidoof.",
+            "Review_Date__c": "2021-02-07",
+            "Prediction_Result__c": "0.998490",
+            "Response_Time_ms__c": 1212,
+            "Reviewer_Age__c": 26,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99849,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef133"
+            },
+            "Review__c": "This is my first Acme headphones. And I am loving it.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999998",
+            "Response_Time_ms__c": 1054,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999998,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef134"
+            },
+            "Review__c": "nothing special. Good headphones. I got them on a discount, so good for the price.",
+            "Review_Date__c": "2020-12-10",
+            "Prediction_Result__c": "0.026199",
+            "Response_Time_ms__c": 1820,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.026199,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef135"
+            },
+            "Review__c": "ugly looks , ok sound .. fragile build ..",
+            "Review_Date__c": "2021-07-15",
+            "Prediction_Result__c": "0.000455",
+            "Response_Time_ms__c": 1901,
+            "Reviewer_Age__c": 39,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.000455,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef136"
+            },
+            "Review__c": "Great sound quality. But u cannot wear for more than an hour. Heat",
+            "Review_Date__c": "2021-04-24",
+            "Prediction_Result__c": "0.995549",
+            "Response_Time_ms__c": 1054,
+            "Reviewer_Age__c": 46,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.995549,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef137"
+            },
+            "Review__c": "Awesome headset!!!!!",
+            "Review_Date__c": "2021-02-03",
+            "Prediction_Result__c": "0.998183",
+            "Response_Time_ms__c": 1919,
+            "Reviewer_Age__c": 48,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.998183,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef138"
+            },
+            "Review__c": "Satisfied with my purchase of Acme AE2. Sound quality is very good and the headphones are comfortable on the head.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999971",
+            "Response_Time_ms__c": 1563,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999971,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef139"
+            },
+            "Review__c": "Excelent headphones, very light",
+            "Review_Date__c": "2020-12-24",
+            "Prediction_Result__c": "0.992446",
+            "Response_Time_ms__c": 1333,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.992446,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef140"
+            },
+            "Review__c": "came apart not worth the money.",
+            "Review_Date__c": "2021-06-23",
+            "Prediction_Result__c": "0.002111",
+            "Response_Time_ms__c": 1511,
+            "Reviewer_Age__c": 64,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.002111,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef141"
+            },
+            "Review__c": "Left side died after 2 years.  Of course it is out of warranty.<br /><br />ended up buying Grado and they sound so much better",
+            "Review_Date__c": "2021-06-03",
+            "Prediction_Result__c": "0.997524",
+            "Response_Time_ms__c": 1661,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.997524,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef142"
+            },
+            "Review__c": "Excellent quality sound.",
+            "Review_Date__c": "2021-01-16",
+            "Prediction_Result__c": "0.999810",
+            "Response_Time_ms__c": 1608,
+            "Reviewer_Age__c": 47,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99981,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef143"
+            },
+            "Review__c": "Excellent product and quick delivery.",
+            "Review_Date__c": "2020-11-03",
+            "Prediction_Result__c": "0.999793",
+            "Response_Time_ms__c": 1708,
+            "Reviewer_Age__c": 57,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999793,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef144"
+            },
+            "Review__c": "Bought for my husbands birthday and he just loves them! Worth it!",
+            "Review_Date__c": "2021-03-26",
+            "Prediction_Result__c": "0.999882",
+            "Response_Time_ms__c": 2155,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999882,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef145"
+            },
+            "Review__c": "After researching headphones that were hearing aid compatible & comfortable while enveloping the whole ear, I found great reviews for the Acme AE2. We gave them to my Dad for Xmas & he is so happy with their quality, sound & comfort. So happy we bought these!",
+            "Review_Date__c": "2021-03-11",
+            "Prediction_Result__c": "0.999991",
+            "Response_Time_ms__c": 1939,
+            "Reviewer_Age__c": 47,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999991,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef146"
+            },
+            "Review__c": "Good quality product",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.959644",
+            "Response_Time_ms__c": 1277,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.959644,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef147"
+            },
+            "Review__c": "Always wanted a pair of Acme headphones to go with my collection of other similar headphones comparing them with my Sony MDR 7506 I find the comfort of the fit to be similar sound a little subjective does a slightly betterbass response with the Acme compared to my Sennheiser again the Acme seem to have a more mellow and sound less highs less lows. Having that being said I enjoy listening to the Acme headphones but the price that I purchased the it was a great reasonably priced deal. not a big fan of the cord but comforting fit very well. looking forward to someday owning the wireless Acme with the sound blocking",
+            "Review_Date__c": "2020-12-30",
+            "Prediction_Result__c": "0.999984",
+            "Response_Time_ms__c": 1499,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999984,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef148"
+            },
+            "Review__c": "Good",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.869910",
+            "Response_Time_ms__c": 1149,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.86991,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef149"
+            },
+            "Review__c": "I'm hard of hearing and wear hearing aids. I had a pair of on ear Sonys that now and then caused feedback, but were otherwise good.<br /><br />I want earphones because then I don't have to turn the volume on the computer up so loud it annoys my wife.<br /><br />On a recent long distance flight the airline's headphones were over the ear and there was no feedback.<br /><br />Amazon had a promotion on these Acme phones. The reviews were overwhelmingly positive so I bought them.<br /><br />They are great.<br />- Light<br />- Comfortable for extended wear<br />- Good sound quality, even to my defective ears<br />- Probably not such a big deal for people with normal hearing, but excellent stereo effect<br /><br />I obviously can't speak to the ultimate audiophile quality of these phones, but they probably aren't fancy enough for golden ears anyway.<br /><br />I would unhesitatingly recommend them to a friend.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.569891",
+            "Response_Time_ms__c": 1302,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.569891,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef150"
+            },
+            "Review__c": "Great!!",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.957135",
+            "Response_Time_ms__c": 1177,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.957135,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef151"
+            },
+            "Review__c": "Sound is great!",
+            "Review_Date__c": "2020-12-27",
+            "Prediction_Result__c": "0.999734",
+            "Response_Time_ms__c": 2320,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999734,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef152"
+            },
+            "Review__c": "Liked how light weight they were, cord a little longer than I'd like.  Unfortunately after about 3 weeks of moderate use only one side was working.",
+            "Review_Date__c": "2020-12-21",
+            "Prediction_Result__c": "0.008984",
+            "Response_Time_ms__c": 2147,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.008984,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef153"
+            },
+            "Review__c": "i love it",
+            "Review_Date__c": "2020-12-18",
+            "Prediction_Result__c": "0.999664",
+            "Response_Time_ms__c": 1419,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999664,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef154"
+            },
+            "Review__c": "amazing price!",
+            "Review_Date__c": "2020-12-17",
+            "Prediction_Result__c": "0.999799",
+            "Response_Time_ms__c": 1099,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999799,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef155"
+            },
+            "Review__c": "I love these headphones. Comfortable, lightweight, I wear them for hours at a time.",
+            "Review_Date__c": "2020-10-12",
+            "Prediction_Result__c": "0.999899",
+            "Response_Time_ms__c": 1954,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999899,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef156"
+            },
+            "Review__c": "Headphones are great. Cable stopped working after 3 months though, the right ear cut out. Didn't treat them poorly or anything. I'd understand if they were ranked lower condition, but they were supposed to be &#34;like new&#34;.  Pretty bummed about that, cuz I love the sound, and in searching for replacement chords, the reviews all seem pretty shady in terms of reliability so I'm hesitant to want to drop more dough.  Seems like a wash. :(",
+            "Review_Date__c": "2021-06-04",
+            "Prediction_Result__c": "0.306576",
+            "Response_Time_ms__c": 1323,
+            "Reviewer_Age__c": 52,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.306576,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef157"
+            },
+            "Review__c": "Good sound and very comfortable to wear",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999842",
+            "Response_Time_ms__c": 2060,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999842,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef158"
+            },
+            "Review__c": "Thanks.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.958841",
+            "Response_Time_ms__c": 1723,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.958841,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef159"
+            },
+            "Review__c": "super coool",
+            "Review_Date__c": "2020-12-15",
+            "Prediction_Result__c": "0.903412",
+            "Response_Time_ms__c": 2310,
+            "Reviewer_Age__c": 52,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.903412,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef160"
+            },
+            "Review__c": "my husband likes hisnewheadphones.",
+            "Review_Date__c": "2020-11-07",
+            "Prediction_Result__c": "0.995993",
+            "Response_Time_ms__c": 2059,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.995993,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef161"
+            },
+            "Review__c": "I love my Acme headphones. It is extremely light weight and the leather is very soft and comfortable around the ears. The sound is really great with a deep base. I am not much of an audiophile but this headphones is great for easy listening and perfect for travel. It does not have a noise reduction system but I love wearing this on the plane because it actually cuts some of the noise from the engine by just covering your ear. It also came with a nice carrying pouch.",
+            "Review_Date__c": "2020-10-18",
+            "Prediction_Result__c": "0.999993",
+            "Response_Time_ms__c": 1111,
+            "Reviewer_Age__c": 40,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999993,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef162"
+            },
+            "Review__c": "good",
+            "Review_Date__c": "2021-02-06",
+            "Prediction_Result__c": "0.869910",
+            "Response_Time_ms__c": 1117,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.86991,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef163"
+            },
+            "Review__c": "PLEASED WITH THE ITEM -GREAT CLEAR SOUND, LIGHT WEIGHT, EASY TO CARRY AROUND AND COMFORTABLE",
+            "Review_Date__c": "2021-01-01",
+            "Prediction_Result__c": "0.955914",
+            "Response_Time_ms__c": 1344,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.955914,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef164"
+            },
+            "Review__c": "My favorite headset ever!",
+            "Review_Date__c": "2021-03-23",
+            "Prediction_Result__c": "0.999934",
+            "Response_Time_ms__c": 1391,
+            "Reviewer_Age__c": 53,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999934,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef165"
+            },
+            "Review__c": "My 17 year old son loved the Acme AE2 headphone! Great sound!!!",
+            "Review_Date__c": "2021-03-24",
+            "Prediction_Result__c": "0.999593",
+            "Response_Time_ms__c": 1826,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999593,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef166"
+            },
+            "Review__c": "Pretty nice! The ear padding is very soft and comfortable to wear.. they have a nice sound that I have never experienced before!",
+            "Review_Date__c": "2020-12-26",
+            "Prediction_Result__c": "0.000652",
+            "Response_Time_ms__c": 1967,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.000652,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef167"
+            },
+            "Review__c": "Great headphones!!",
+            "Review_Date__c": "2021-01-01",
+            "Prediction_Result__c": "0.994187",
+            "Response_Time_ms__c": 1855,
+            "Reviewer_Age__c": 39,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.994187,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef168"
+            },
+            "Review__c": "Great value, terrific product!!!",
+            "Review_Date__c": "2021-02-10",
+            "Prediction_Result__c": "0.999999",
+            "Response_Time_ms__c": 3356,
+            "Reviewer_Age__c": 45,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999999,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef169"
+            },
+            "Review__c": "Good Value, package looked like it was on the battlefield in Syria. It was a gift and couldnt be given with the packaging",
+            "Review_Date__c": "2020-10-23",
+            "Prediction_Result__c": "0.985484",
+            "Response_Time_ms__c": 4006,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.985484,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef170"
+            },
+            "Review__c": "They stopped  working on the left side within six months",
+            "Review_Date__c": "2021-08-29",
+            "Prediction_Result__c": "0.029908",
+            "Response_Time_ms__c": 1237,
+            "Reviewer_Age__c": 57,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.029908,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef171"
+            },
+            "Review__c": "love these headphones!!",
+            "Review_Date__c": "2021-07-09",
+            "Prediction_Result__c": "0.998401",
+            "Response_Time_ms__c": 2886,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998401,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef172"
+            },
+            "Review__c": "I love these. Very comfortable and great sound. I travel overseas monthly and these are a life saver. I'd be lost without them.",
+            "Review_Date__c": "2021-04-20",
+            "Prediction_Result__c": "0.999999",
+            "Response_Time_ms__c": 1506,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999999,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef173"
+            },
+            "Review__c": "Great sound!",
+            "Review_Date__c": "2021-02-14",
+            "Prediction_Result__c": "0.998513",
+            "Response_Time_ms__c": 5798,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.998513,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef174"
+            },
+            "Review__c": "my husband can hear again",
+            "Review_Date__c": "2020-10-22",
+            "Prediction_Result__c": "0.999645",
+            "Response_Time_ms__c": 2427,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999645,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef175"
+            },
+            "Review__c": "Its a Acme! Great headphone and excellent sound!",
+            "Review_Date__c": "2021-06-01",
+            "Prediction_Result__c": "0.999990",
+            "Response_Time_ms__c": 1696,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99999,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef176"
+            },
+            "Review__c": "Good!!",
+            "Review_Date__c": "2021-02-15",
+            "Prediction_Result__c": "0.869910",
+            "Response_Time_ms__c": 2516,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.86991,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef177"
+            },
+            "Review__c": "Great sound, comfortable for extended wear",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999999",
+            "Response_Time_ms__c": 1674,
+            "Reviewer_Age__c": 68,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999999,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef178"
+            },
+            "Review__c": "Stepfather loves these headphones, said they're great quality and very comfortable. I wish I bought a pair for myself, probably will when they have a good sale again.",
+            "Review_Date__c": "2020-12-29",
+            "Prediction_Result__c": "0.999749",
+            "Response_Time_ms__c": 1170,
+            "Reviewer_Age__c": 55,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999749,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef179"
+            },
+            "Review__c": "Wow shipped so fast and they are excellent. You cant hear anything but the music or sound playing . They are so comfortable on your ear. Thank you",
+            "Review_Date__c": "2020-12-19",
+            "Prediction_Result__c": "0.999828",
+            "Response_Time_ms__c": 1832,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999828,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef180"
+            },
+            "Review__c": "Acme at a fraction of the price, excellent audio",
+            "Review_Date__c": "2020-12-23",
+            "Prediction_Result__c": "0.999994",
+            "Response_Time_ms__c": 1462,
+            "Reviewer_Age__c": 42,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999994,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef181"
+            },
+            "Review__c": "great , nice clear sound",
+            "Review_Date__c": "2020-12-22",
+            "Prediction_Result__c": "0.999894",
+            "Response_Time_ms__c": 1106,
+            "Reviewer_Age__c": 57,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999894,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef182"
+            },
+            "Review__c": "Love the sound...so clear...",
+            "Review_Date__c": "2020-12-21",
+            "Prediction_Result__c": "0.988478",
+            "Response_Time_ms__c": 1117,
+            "Reviewer_Age__c": 64,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.988478,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef183"
+            },
+            "Review__c": "Most comfortable headphones I've ever had. They sound amazing, too. Highly recommended.",
+            "Review_Date__c": "2020-12-09",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1787,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef184"
+            },
+            "Review__c": "There's almost nothing more I can add to the already helpful reviews that hasn't already been said. These headphones are very light-weight, very durable, and sound very good considering the reasonable price.<br /><br />One data point I'd like to add: Reliability.<br /><br />I've had my Acme AE2 for about 5 years and used them almost every weekday for about an hour or two. Within the last 3 months, the cushion around the ears started to come apart. Considering how old they were, I figured I'd replace them with new ones. They were definitely worth the original cost, considering how many hours of use I've had with them. Even now, I could have purchased replacement cushions, but decided a new pair would be best.",
+            "Review_Date__c": "2020-12-02",
+            "Prediction_Result__c": "0.999975",
+            "Response_Time_ms__c": 1291,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999975,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef185"
+            },
+            "Review__c": "Comfort: 4<br />Sound: 5<br /><br />I've had it for about 5 years now if that's a testament to how good they are, even with daily use of up to 10 hours. they can make your ears a *little* sore after extreme use, but its manageable. Sounds really fantastic.",
+            "Review_Date__c": "2020-10-26",
+            "Prediction_Result__c": "0.341596",
+            "Response_Time_ms__c": 1680,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.341596,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef186"
+            },
+            "Review__c": "This was a great deal on the lightning deal! It was 79.99 and worth every penny! Just buy a hard case for it!",
+            "Review_Date__c": "2021-04-28",
+            "Prediction_Result__c": "0.999932",
+            "Response_Time_ms__c": 1303,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999932,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef187"
+            },
+            "Review__c": "I halve had the AE2 for 3 years now, and am happy with them.  So far, I have had to replace the ear cups, because they didn't have any cushion anymore.<br /><br />Sound:<br />Overall, sound quality is good.  The high are lost when the music is played loudly.  To hear the depth of sounds, the volume must be turned up to the middle or high.  Bass is subtle and okay.  I prefer my seinhauser headphones.<br /><br />Build:<br /><br />The build quality of these headphones is okay.  They are built well, but are made of all plastic.  The earcups are made of leatherette and are very comfortable when they have cushion.  You may need to replace them at some point.  The plastic does get scratched easily and the Acme logo is painted on and can be easily be &#34;rubbed&#34; off.<br /><br />Overall, there are much better headphones that offer a lot more at this price or cheaper.",
+            "Review_Date__c": "2021-04-13",
+            "Prediction_Result__c": "0.990949",
+            "Response_Time_ms__c": 1874,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.990949,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef188"
+            },
+            "Review__c": "Great for noise reduction. However, I was expecting more sound quality from a brand such as Acme. My previous in-ear headphones were better in sound quality by far.",
+            "Review_Date__c": "2021-03-09",
+            "Prediction_Result__c": "0.874675",
+            "Response_Time_ms__c": 1535,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.874675,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef189"
+            },
+            "Review__c": "Superb for the discounted price .... Wish they didn't press hard on my ears ......... Maybe cause I have a big head :)",
+            "Review_Date__c": "2021-02-07",
+            "Prediction_Result__c": "0.995804",
+            "Response_Time_ms__c": 1338,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.995804,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        }
+    ]
+}

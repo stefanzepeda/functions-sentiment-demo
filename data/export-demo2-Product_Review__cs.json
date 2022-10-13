@@ -1,0 +1,2811 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef1"
+            },
+            "Review__c": "Sounds great - and for $350, you can't beat it!  It really gives you a surround sound feel without the laborious installation.  And the bass is steady, deep, and not rattly-sounding.  I highly recommend these speakers!  Especially instead of a stupid soundbar (we tried two of those before getting these).",
+            "Review_Date__c": "2021-01-07",
+            "Prediction_Result__c": "0.999990",
+            "Response_Time_ms__c": 3156,
+            "Reviewer_Age__c": 39,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99999,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef2"
+            },
+            "Review__c": "You pay for what you get!!!  Acme is a quality product and this system works fantastic for my bedroom.  You can not beat the sound for under $400 bucks.  There is NO sound bar or two speaker system that will deliver the punch this one does.......reach into your pockets - don't be cheap and buy the thing, you wont be disappointed!!",
+            "Review_Date__c": "2021-02-04",
+            "Prediction_Result__c": "0.999829",
+            "Response_Time_ms__c": 1188,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999829,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef3"
+            },
+            "Review__c": "I'm a huge audio snob and I've always had full high end surround sound speakers that hook up to expensive receivers and all of that. But when I moved to my new house and took the expensive setup I had for my &#34;man town&#34;, I wanted to get a nice basic system for the living room so for one, we'd have great sound on that tv too, but more importantly, so I didn't have to rip up floors or rip through the walls to successfully and cleanly wire a full surround sound system. So I did a ton of research and found this system. I was a little skeptical, because again, I'm used to full surround sound systems where there are speakers everywhere. But the reviews on this were great and I figured I'd give it a try. I'm SO happy I did. Acme was able to create a system that involves only 2 speakers (plus a sub) and create a full room of powerful and perfectly detailed sound. I was blown away. No, this won't rival any of their high end pure surround sound systems, but seeing as it's only 2 speakers and a sub, the different is even close to as noticeable as I figured it would be. I'd highly recommend this. The system setup takes about 10 minutes, if that, and it comes with the easiest to understand directions that I've ever seen. And then there is a setup DVD that works to ensure everything is setup correctly. I'm very impressed and will continue to be a long time Acme fan!",
+            "Review_Date__c": "2021-07-17",
+            "Prediction_Result__c": "0.998268",
+            "Response_Time_ms__c": 1032,
+            "Reviewer_Age__c": 45,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998268,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef4"
+            },
+            "Review__c": "Oh man I love this setup, nice clean sound that doesn't distort when up too loud and pretty loud for such small speakers.<br />Although the sub is not very powerful at all and it would have been nice for it to be wireless but for the price you can't beat it.",
+            "Review_Date__c": "2021-05-27",
+            "Prediction_Result__c": "0.999211",
+            "Response_Time_ms__c": 1094,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999211,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef5"
+            },
+            "Review__c": "Not happy with it no booming sound, almost cannot tell the difference between the TV speaker. Will sell and get a difference brand.",
+            "Review_Date__c": "2021-07-11",
+            "Prediction_Result__c": "0.999711",
+            "Response_Time_ms__c": 2289,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999711,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef6"
+            },
+            "Review__c": "The high quality that Acme is known for & expected.",
+            "Review_Date__c": "2021-01-10",
+            "Prediction_Result__c": "0.989657",
+            "Response_Time_ms__c": 1347,
+            "Reviewer_Age__c": 73,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.989657,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef7"
+            },
+            "Review__c": "I bought my cinemaye system about 2 months ago and use it every day. The sound is great. Very crisp and clear highs and clean bass. I will say that seems like the sound could be a little fuller with some more mid range. But overall a great system and easy to set up. Programing the universal remote is a little annoying but it works great and nice not to have multiple remotes.",
+            "Review_Date__c": "2021-01-01",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1313,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef8"
+            },
+            "Review__c": "Love it! Only we bought the one with the universal remote and spent way too much money when we didn't have to.",
+            "Review_Date__c": "2020-10-22",
+            "Prediction_Result__c": "0.970325",
+            "Response_Time_ms__c": 2861,
+            "Reviewer_Age__c": 40,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.970325,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef9"
+            },
+            "Review__c": "Just received my Acme CineMate GS Series II. But the remote is not working. So I am not able to start my speakers. The main worst thing is, with out the remote you can't do anything as there is no switch/nob in this system.<br />After calling the Acme help desk, the operator told me that they will send me a new remote, but it would take 8 more days.  This is really frustrating. I was expecting better service or better quality of product from this seller.",
+            "Review_Date__c": "2020-12-04",
+            "Prediction_Result__c": "0.002977",
+            "Response_Time_ms__c": 1100,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.002977,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef10"
+            },
+            "Review__c": "you cant beat this type of sound quality for the price. and its only two speakers and a sub and it really sounds like you have full surround sound in the room. once again a great product. postitive review coming from a audio fanatic",
+            "Review_Date__c": "2020-12-20",
+            "Prediction_Result__c": "0.995536",
+            "Response_Time_ms__c": 2665,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.995536,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef11"
+            },
+            "Review__c": "ok",
+            "Review_Date__c": "2021-02-14",
+            "Prediction_Result__c": "0.095402",
+            "Response_Time_ms__c": 1816,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.095402,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef12"
+            },
+            "Review__c": "Very impressive sound . Does not distort even if you turn it full blast. Its worth the  money.",
+            "Review_Date__c": "2021-02-27",
+            "Prediction_Result__c": "0.996512",
+            "Response_Time_ms__c": 1943,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.996512,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef13"
+            },
+            "Review__c": "This sound system gives good sound to our TV. It can play much louder than the TV could, and it amplifies the treble that we need to hear to understand movie dialogue.",
+            "Review_Date__c": "2021-03-23",
+            "Prediction_Result__c": "0.999991",
+            "Response_Time_ms__c": 2404,
+            "Reviewer_Age__c": 37,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999991,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef14"
+            },
+            "Review__c": "Love it and at a great price",
+            "Review_Date__c": "2021-01-28",
+            "Prediction_Result__c": "0.999946",
+            "Response_Time_ms__c": 1745,
+            "Reviewer_Age__c": 40,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999946,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef15"
+            },
+            "Review__c": "Great sound!!!! Especially coming from such a compact speaker system. Definitely worth the price. Highly recommend",
+            "Review_Date__c": "2021-02-28",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1810,
+            "Reviewer_Age__c": 64,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef16"
+            },
+            "Review__c": "Great sound for the price. I connected a Bluetooth adapter to these, now I can easily enjoy music from my playlist as well as quality sound for the TV.",
+            "Review_Date__c": "2020-11-20",
+            "Prediction_Result__c": "0.999988",
+            "Response_Time_ms__c": 1901,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999988,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef17"
+            },
+            "Review__c": "I don't have a Words for this product......",
+            "Review_Date__c": "2020-10-28",
+            "Prediction_Result__c": "0.020056",
+            "Response_Time_ms__c": 1966,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.020056,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef18"
+            },
+            "Review__c": "Good sound. But it has an 30 minute auto off feature that sucks. If you use an all in one smart remote the Acme system throws everything off with its auto off feature. There are a few work around's  but its pretty brutal if your using something like a harmony remote. I use a HTPC on my TV and i found a fix by downloading the app &#34;sound break&#34; on my computer. It plays an unnoticeable sound every 25 minutes to keep the Acme awake. But with that said i have the Sonos 5.1 package just waiting in my cart. Just need to convince myself that it is ok to spend 2 Grand on a home theater.",
+            "Review_Date__c": "2020-10-29",
+            "Prediction_Result__c": "0.000010",
+            "Response_Time_ms__c": 1477,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.00001,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef19"
+            },
+            "Review__c": "Great sound, but limited input options. Only one RCA and one optical input. Bass is great, treble is a bit tinny.",
+            "Review_Date__c": "2020-11-07",
+            "Prediction_Result__c": "0.998239",
+            "Response_Time_ms__c": 1427,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998239,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef20"
+            },
+            "Review__c": "Great system. Easy to install. Would be even better if they included stands with the speaker system.",
+            "Review_Date__c": "2021-07-22",
+            "Prediction_Result__c": "0.999984",
+            "Response_Time_ms__c": 2248,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999984,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef21"
+            },
+            "Review__c": "Great sound",
+            "Review_Date__c": "2021-02-09",
+            "Prediction_Result__c": "0.998513",
+            "Response_Time_ms__c": 2209,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998513,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef22"
+            },
+            "Review__c": "I absolutely love this system.  The 2 speakers are tiny but they make my home sound like a theater.  It also doesn't hurt that they are visibly pleasing.<br />They are great for music, shows and movies but I love turning up the volume when I'm gaming.  It makes me feel like I'm in a battlefield (without the fear of real death of course).<br />The sub is quite large but I put it beside my entertainment center and you can't really see it but you sure can hear it!  I love that it gives you the ability to control the bass - I sometimes decrease it when I'm watching late night TV so I don't wake everyone up but otherwise, it's all about that bass... bout that bass... no treble...",
+            "Review_Date__c": "2021-02-26",
+            "Prediction_Result__c": "0.999667",
+            "Response_Time_ms__c": 1470,
+            "Reviewer_Age__c": 25,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999667,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef23"
+            },
+            "Review__c": "The people who say Acme has bad sound quality, have probably never used it properly. I own this system and have never had any complaints. It provides the power needed to fill the room regardless of size, yet the dexterity to play the most delicate sounds. MUST BUY IF YOU WANT GREAT SOUND QUALITY!!",
+            "Review_Date__c": "2021-07-16",
+            "Prediction_Result__c": "0.163447",
+            "Response_Time_ms__c": 1431,
+            "Reviewer_Age__c": 41,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.163447,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef24"
+            },
+            "Review__c": "Sounds great. Simple setup.",
+            "Review_Date__c": "2021-01-26",
+            "Prediction_Result__c": "0.999806",
+            "Response_Time_ms__c": 2555,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999806,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef25"
+            },
+            "Review__c": "This sound system is AWESOME!!! I have an older Acme 3-2-1 that I love and the new Acme Cinemate GS Series II is clean, has awesome bass and produces clear sound that make watching movies, sports, TV, etc. an experience. You will not be disappointed.",
+            "Review_Date__c": "2020-12-03",
+            "Prediction_Result__c": "0.999993",
+            "Response_Time_ms__c": 2636,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999993,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef26"
+            },
+            "Review__c": "Very good sound.",
+            "Review_Date__c": "2021-03-17",
+            "Prediction_Result__c": "0.999613",
+            "Response_Time_ms__c": 2354,
+            "Reviewer_Age__c": 69,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999613,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef27"
+            },
+            "Review__c": "Excellent quality sound.",
+            "Review_Date__c": "2020-11-04",
+            "Prediction_Result__c": "0.999810",
+            "Response_Time_ms__c": 2512,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99981,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef28"
+            },
+            "Review__c": "Great Sound",
+            "Review_Date__c": "2021-02-03",
+            "Prediction_Result__c": "0.998513",
+            "Response_Time_ms__c": 1366,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.998513,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef29"
+            },
+            "Review__c": "Great Sound",
+            "Review_Date__c": "2021-01-22",
+            "Prediction_Result__c": "0.998513",
+            "Response_Time_ms__c": 1623,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998513,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef30"
+            },
+            "Review__c": "GREAT",
+            "Review_Date__c": "2021-02-01",
+            "Prediction_Result__c": "0.957135",
+            "Response_Time_ms__c": 1050,
+            "Reviewer_Age__c": 73,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.957135,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef31"
+            },
+            "Review__c": "ok for Acme , thought would have much better sound .",
+            "Review_Date__c": "2021-05-12",
+            "Prediction_Result__c": "0.001394",
+            "Response_Time_ms__c": 2679,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.001394,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef32"
+            },
+            "Review__c": "You can't go wrong with Acme. I've had friends who spend a lot more and get a separate receiver and speaker system. But this one worked just right for my living room. Assembly was not very difficult although keep in mind that you need to fund a right spot for the receiver as the receiver needs to be kept around 3 feet away from the TV and since my TV is wall mounted I had to keep the receiver on the floor. But once this was set up and I turned the speakers on - my family was thrilled with it. It had a very nice surround effect as well as when you turn the bass to full or even halfway the effects are amazing. We watched a 3D movie with this and the sound effect with the bass on full were excellent. The biggest plus with this was with the Universal Remote it comes with. I wanted to buy a Universal remote and instead of buying a separate one from Logitech I decided to use this one that came with Acme. And it worked great - paired well with my Panasonic TV, Panasonic Blu Ray and Xfinity. Only item it could not pair with was Roku Player (wish they come up with some firmware upgrade to make that work) but I know that's not possible. For 1 flaw can I really take a star away. Nah...Its a rockstar of a speaker system and 5 stars for that.",
+            "Review_Date__c": "2020-12-25",
+            "Prediction_Result__c": "0.999990",
+            "Response_Time_ms__c": 2489,
+            "Reviewer_Age__c": 30,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99999,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef33"
+            },
+            "Review__c": "Didn't work when I recieved it, took another week to get the wires I needed",
+            "Review_Date__c": "2021-07-04",
+            "Prediction_Result__c": "0.999458",
+            "Response_Time_ms__c": 2939,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999458,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef34"
+            },
+            "Review__c": "Great sound, but definitely better for smaller areas.  If you have an open floor plan in your house, for best sound try to angle them to where they will have a back wall to bounce the sound off of... if you do that you will LOVE these... if it is just a large wide open floor plan, you probably want the step up as the sound will be a little less than what it could be.",
+            "Review_Date__c": "2021-08-04",
+            "Prediction_Result__c": "0.998083",
+            "Response_Time_ms__c": 3570,
+            "Reviewer_Age__c": 33,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.998083,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef35"
+            },
+            "Review__c": "Excellent sound quality",
+            "Review_Date__c": "2021-05-20",
+            "Prediction_Result__c": "0.999950",
+            "Response_Time_ms__c": 3230,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99995,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef36"
+            },
+            "Review__c": "awesome sound!",
+            "Review_Date__c": "2021-05-21",
+            "Prediction_Result__c": "0.999932",
+            "Response_Time_ms__c": 3319,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999932,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef37"
+            },
+            "Review__c": "This product really enhanced the sound of our big screen TV.",
+            "Review_Date__c": "2021-08-28",
+            "Prediction_Result__c": "0.999963",
+            "Response_Time_ms__c": 2018,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999963,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef38"
+            },
+            "Review__c": "Great system for a moderately sized living room. The sound is realistic. There are many times when I'm in another room when I think something fell, only to find out that it's the system that generated such realistic sound that I thought something happened in my living space. I like the fact that everything you need to operate it come in the box. And there aren't too many wires. No wires have to be strewn across the living space like with my old sound system. Great buy. I get to have Acme quality at a reasonable price.",
+            "Review_Date__c": "2020-12-07",
+            "Prediction_Result__c": "0.999954",
+            "Response_Time_ms__c": 2706,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999954,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef39"
+            },
+            "Review__c": "The sound from these is awesome.  We've gone from watching &#34;TV&#34; to having a full-on movie experience.<br /><br />I ran into a few roadblocks doing the installation that are worth mentioning:<br />1) The speaker cable wasn't nearly long enough to go from the acoustimass unit to where I was installing the speakers on a shelf over the TV, so I had to buy the longer 40' cable separately;<br />2) The Acme system accepts audio inputs in only two formats: the optical &#34;toslink&#34; digital, or old-fashioned RCA stereo analog.  My TV falls in the middle, and has neither of those audio outputs.  Instead, it has a coaxial RCA digital output.  To make the TV talk to the Acme unit, I got a digital audio converter to make the translation.  The two digital systems use the same encoding, so the converter just has to change the signal from coaxial to optical.  There are lots of units for sale that will do the job.  I selected one that is very flexible in that it will convert coax-to-optical, optical-to-coax, or act as a relay (range extender) for either format.  It is reasonably priced at $24, and works perfectly. (http://smile.amazon.com/gp/product/B00FWM0UNS/ref=cm_cr_ryp_prd_ttl_sol_8).<br />3) The cable connectors are quite large.  I installed my system into a built-in book case, so I was able to make the necessary large holes at the back of the shelves where they won't be visible, but the hole in the floor to connect the acoustimass module will be quite visible if I ever move it.  So, don't think that you can install this unit will the small holes that you'd use for running simple speaker wire.<br /><br />I have not yet tried to program the remote to control our Dish Network box and Philips TV, so I can't speak to how easily that is accomplished, or how well the remote works.  For now, we are using the Dish remote to control the TV and the Dish box, and the Acme remote to control the volume.<br /><br />All-in-all, the sound is great, and the system setup is super simple if you have one of the right outputs from your TV, and still pretty simple if all you need is the converter mentioned above.  Highly recommended.",
+            "Review_Date__c": "2021-01-04",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 3260,
+            "Reviewer_Age__c": 74,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef40"
+            },
+            "Review__c": "Acme System GS Series II is perfect for our 20-ft by 21-ft living room/entertainment theatre.  The sound quality is unsurpassed by any other system we listened to at various stores.",
+            "Review_Date__c": "2020-11-17",
+            "Prediction_Result__c": "0.999998",
+            "Response_Time_ms__c": 1674,
+            "Reviewer_Age__c": 31,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999998,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef41"
+            },
+            "Review__c": "Great sound, fairly easy setup.",
+            "Review_Date__c": "2021-01-07",
+            "Prediction_Result__c": "0.999904",
+            "Response_Time_ms__c": 2403,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999904,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef42"
+            },
+            "Review__c": "I love it.and ever thing  is OK thanks",
+            "Review_Date__c": "2021-01-11",
+            "Prediction_Result__c": "0.177354",
+            "Response_Time_ms__c": 2362,
+            "Reviewer_Age__c": 56,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.177354,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef43"
+            },
+            "Review__c": "Loved it. Got it for a ridiculously low price during Thanksgiving. Super satisfied. WIll buy Acme again and again.",
+            "Review_Date__c": "2021-02-07",
+            "Prediction_Result__c": "0.999997",
+            "Response_Time_ms__c": 1106,
+            "Reviewer_Age__c": 53,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999997,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef44"
+            },
+            "Review__c": "Excelente.",
+            "Review_Date__c": "2021-02-18",
+            "Prediction_Result__c": "0.653573",
+            "Response_Time_ms__c": 1117,
+            "Reviewer_Age__c": 41,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.653573,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef45"
+            },
+            "Review__c": "Very, very satisfied!",
+            "Review_Date__c": "2021-02-23",
+            "Prediction_Result__c": "0.996349",
+            "Response_Time_ms__c": 2683,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.996349,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef46"
+            },
+            "Review__c": "worth for money. Good enough for a small living room.",
+            "Review_Date__c": "2021-02-24",
+            "Prediction_Result__c": "0.999388",
+            "Response_Time_ms__c": 1766,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999388,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef47"
+            },
+            "Review__c": "Gift, well received.",
+            "Review_Date__c": "2021-04-21",
+            "Prediction_Result__c": "0.997428",
+            "Response_Time_ms__c": 1175,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.997428,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef48"
+            },
+            "Review__c": "Love these speakers.",
+            "Review_Date__c": "2021-04-23",
+            "Prediction_Result__c": "0.985708",
+            "Response_Time_ms__c": 1316,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.985708,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef49"
+            },
+            "Review__c": "At this day and age, it is not Wi-Fi enabled. Sound is good.",
+            "Review_Date__c": "2021-06-22",
+            "Prediction_Result__c": "0.999978",
+            "Response_Time_ms__c": 2537,
+            "Reviewer_Age__c": 31,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999978,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef50"
+            },
+            "Review__c": "the sound is not as good as it was at the store",
+            "Review_Date__c": "2021-07-15",
+            "Prediction_Result__c": "0.661785",
+            "Response_Time_ms__c": 1783,
+            "Reviewer_Age__c": 53,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.661785,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef51"
+            },
+            "Review__c": "Sounds great. Don't need anything bigger for my living room (about 25 x 20 ft)",
+            "Review_Date__c": "2021-07-20",
+            "Prediction_Result__c": "0.975208",
+            "Response_Time_ms__c": 1948,
+            "Reviewer_Age__c": 29,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.975208,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef52"
+            },
+            "Review__c": "awesome product but would not buy any big electronics from amazon again I could have purchased this same item from best buy for a $100.00 less two weeks after I bought this from amazon I called amazon but was told they do not match prices outside of amazon (called 3 times same answer ) so beware that other wise great system",
+            "Review_Date__c": "2020-10-31",
+            "Prediction_Result__c": "0.877656",
+            "Response_Time_ms__c": 2448,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.877656,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef53"
+            },
+            "Review__c": "It's actually not to bad, could use a diagram or two on how to hook different cables to Cable box, TV, and also Blue Ray DVD player, still not sure i got it right. Also might be a pretty good idea to include the codes it needs for the universal remote to work on all these units.  It's a pretty good unit but expected more.",
+            "Review_Date__c": "2020-11-23",
+            "Prediction_Result__c": "0.965558",
+            "Response_Time_ms__c": 3613,
+            "Reviewer_Age__c": 52,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.965558,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef54"
+            },
+            "Review__c": "Perfect for someone who wants good quality sound and does not want to pay a fortune for it. Although this system is not cheap, I believe it has been money well spent. I was skeptical as to whether this unit would mimic surround sound well and was pleasantly surprised that it did. I wanted a sound system for my oddly shaped living room. I didn't want wires or back units that would end up in the middle of the room as the dining room is behind my couch. My parents and my brother both have this unit and were pleased with it so I thought I would try it and I'm very happy with my purchase. Sound fills the room, is rich and vibrant. Too bad my downstairs neighbor does not agree. :) Most people will be very happy with this unit from Acme.",
+            "Review_Date__c": "2021-01-22",
+            "Prediction_Result__c": "0.999997",
+            "Response_Time_ms__c": 5273,
+            "Reviewer_Age__c": 55,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999997,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef55"
+            },
+            "Review__c": "Sounds great but there are some quirks.  First, the acoustimass unit is huge.  Think bigger thana desktop pc tower circa 2000. Which isn't bad in and of itself, but you need to put this thing somewhere and you have to run thick wires to your tv.  You'll want to hide these suckers, they are conspicuous.  The universal remote is nice but the direction keys don't work with Apple tv's remote finder, so I'm stuck using that horrible tiny remote I guess.  I'm not sure you could do better for the price... I'm happy until got this and it sounds infinitely better than my tv speakers.",
+            "Review_Date__c": "2020-11-03",
+            "Prediction_Result__c": "0.001727",
+            "Response_Time_ms__c": 2085,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.001727,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef56"
+            },
+            "Review__c": "Perfect for our living room!",
+            "Review_Date__c": "2020-11-19",
+            "Prediction_Result__c": "0.999995",
+            "Response_Time_ms__c": 2048,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999995,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef57"
+            },
+            "Review__c": "Acme speaker is always good quality<br />and clearnce sale",
+            "Review_Date__c": "2021-02-13",
+            "Prediction_Result__c": "0.999882",
+            "Response_Time_ms__c": 1656,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999882,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef58"
+            },
+            "Review__c": "Excellent",
+            "Review_Date__c": "2021-05-29",
+            "Prediction_Result__c": "0.991819",
+            "Response_Time_ms__c": 1235,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.991819,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef59"
+            },
+            "Review__c": "Product was delivered with a non working remote , I sent the remote back a couple of weeks ago, and I am still waiting on it. Can't not use it until I receive remote,because the remote controls unit.",
+            "Review_Date__c": "2021-01-11",
+            "Prediction_Result__c": "0.799260",
+            "Response_Time_ms__c": 1789,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.79926,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef60"
+            },
+            "Review__c": "Love it awesome!!",
+            "Review_Date__c": "2021-01-16",
+            "Prediction_Result__c": "0.999993",
+            "Response_Time_ms__c": 1286,
+            "Reviewer_Age__c": 58,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999993,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef61"
+            },
+            "Review__c": "We bought this because my husband has hearing loss.  Love the system.  It works wonderfully.",
+            "Review_Date__c": "2021-02-02",
+            "Prediction_Result__c": "0.999962",
+            "Response_Time_ms__c": 3261,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999962,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef62"
+            },
+            "Review__c": "I loved!!!!",
+            "Review_Date__c": "2021-04-24",
+            "Prediction_Result__c": "0.984765",
+            "Response_Time_ms__c": 2315,
+            "Reviewer_Age__c": 67,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.984765,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef63"
+            },
+            "Review__c": "Ad said &#34;like new&#34;. It was filthy and didn't work, so I bought a new one. Never buy used anything.",
+            "Review_Date__c": "2021-05-30",
+            "Prediction_Result__c": "0.871334",
+            "Response_Time_ms__c": 3032,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.871334,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef64"
+            },
+            "Review__c": "Great sound, especially powerful bass resonant. I used to have Sony's 5.1 surround system but I've never felt in the theater while watching movies.  But this product makes real home theatre and I feel live sounds. It might have changed my movie life ---  so I think I need to re-watch many stock of my old Blu-rays and DVDs.  I regret why I didn't invest this product sooner.  (Now I am very happy, though)    I also like to listen to the Internet radio over Apple TV.  Even 128kbps streaming Internet radio, the bass is boosted as powerful sound.",
+            "Review_Date__c": "2020-12-24",
+            "Prediction_Result__c": "0.993938",
+            "Response_Time_ms__c": 2285,
+            "Reviewer_Age__c": 56,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.993938,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef65"
+            },
+            "Review__c": "A really good system for the price. Clear crisp sound that is perfect for a small space. It works well but loses a little quality in larger open areas.  If you are using it in a small or even mid-size room, alcove or den, this would be perfect.  Not as good in a high ceiling loft type setting.<br /><br />Easy to setup and looks quite nice overall.  The Dolby 5.1 is quite impressive if you've never experienced it or if compared to just your standard TV speakers.  A must get for a movie buff with a decent TV.",
+            "Review_Date__c": "2020-11-27",
+            "Prediction_Result__c": "0.962400",
+            "Response_Time_ms__c": 2994,
+            "Reviewer_Age__c": 31,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.9624,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef66"
+            },
+            "Review__c": "Acme system is great. Before I buy I didnt realize why people are telling Acme is good and great. Even at the shops I couldnt feel much diff.<br />But after buying this product watched some movies with blu ray. Wow... What a sound. Crisp, Clear and Broad sound. That too Horror movies!!!.<br />Unbelievable product.<br /><br />After sometime visited some friends houses and they were using another speaker brand. Then I realized Acme sound cannot be compared with other products. Unique system.<br /><br />If you want to buy a good sound system, buy Acme otherwise don't buy anything. It is worth for the price.<br />I have been using this product for more than 2.5 years. No defect and no issues.<br />For a normal home 2.1 is best and suitable. Speakers might look small but the sound they deliver is unbelievable!!!!!!!",
+            "Review_Date__c": "2021-07-26",
+            "Prediction_Result__c": "0.999922",
+            "Response_Time_ms__c": 2038,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999922,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef67"
+            },
+            "Review__c": "The remote doesn't work. I tried two sets of batteries no improvement.<br />I tried the remote from another system - it worked.<br />Please send replacement remote (just the remote).",
+            "Review_Date__c": "2020-11-30",
+            "Prediction_Result__c": "0.099462",
+            "Response_Time_ms__c": 1740,
+            "Reviewer_Age__c": 30,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.099462,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef68"
+            },
+            "Review__c": "So much can be said about Acme, but truly this system is affordable and dynamic. If you want spectacular, room-filling, theater sound, get this system. For a sound system that is all-in-one, definitely go Acme. You can easily spend $3,000 - $5,000 on a system to outshine this, but the ease of use and setup makes this system stand alone on the top of the audio food chain.",
+            "Review_Date__c": "2021-07-24",
+            "Prediction_Result__c": "0.999854",
+            "Response_Time_ms__c": 2065,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999854,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef69"
+            },
+            "Review__c": "Quality sound.",
+            "Review_Date__c": "2021-01-22",
+            "Prediction_Result__c": "0.164711",
+            "Response_Time_ms__c": 1111,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.164711,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef70"
+            },
+            "Review__c": "For my small room these speakers does the job, but only issue is with its remote, batteries gets discharged pretty quickly. Tried using panasonic and duracell batteries but all of them gets discharged within a weeks time. Need to contact Acme for this issue.",
+            "Review_Date__c": "2021-07-06",
+            "Prediction_Result__c": "0.020247",
+            "Response_Time_ms__c": 1824,
+            "Reviewer_Age__c": 52,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.020247,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef71"
+            },
+            "Review__c": "I love it",
+            "Review_Date__c": "2021-01-04",
+            "Prediction_Result__c": "0.999664",
+            "Response_Time_ms__c": 1172,
+            "Reviewer_Age__c": 58,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999664,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef72"
+            },
+            "Review__c": "Great Sound",
+            "Review_Date__c": "2021-01-16",
+            "Prediction_Result__c": "0.998513",
+            "Response_Time_ms__c": 1179,
+            "Reviewer_Age__c": 74,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.998513,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef73"
+            },
+            "Review__c": "If you serious about the sound quality and don't want to compromise with the newer designed one piece soundbar to limit the stereo effect, the GS II is the gear you want.<br /><br />Pros: Bass, deep, rich and clean. Excellent dynamic range. Good sound stage. Easy set up.<br /><br />Cons: wires still short since my room is 18x20'. No physical control on the console, so no way to tell the level of the volume.",
+            "Review_Date__c": "2020-11-14",
+            "Prediction_Result__c": "0.999955",
+            "Response_Time_ms__c": 1252,
+            "Reviewer_Age__c": 42,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999955,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef74"
+            },
+            "Review__c": "Sounds amazing fir the price",
+            "Review_Date__c": "2021-01-12",
+            "Prediction_Result__c": "0.999893",
+            "Response_Time_ms__c": 1221,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999893,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef75"
+            },
+            "Review__c": "Great Product",
+            "Review_Date__c": "2021-05-15",
+            "Prediction_Result__c": "0.998359",
+            "Response_Time_ms__c": 5605,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998359,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef76"
+            },
+            "Review__c": "ok",
+            "Review_Date__c": "2021-02-27",
+            "Prediction_Result__c": "0.095402",
+            "Response_Time_ms__c": 1187,
+            "Reviewer_Age__c": 39,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.095402,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef77"
+            },
+            "Review__c": "good system at the price paid.",
+            "Review_Date__c": "2021-02-04",
+            "Prediction_Result__c": "0.999625",
+            "Response_Time_ms__c": 2016,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999625,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef78"
+            },
+            "Review__c": "These speakers were a great addition and must have for the new flat screen TV we purchased. No need for surround sound, these cover everything you need. Buy the stands with them. Also the speakers are tiny, they look much bigger online, but in reality they are very small, but with lots of big quality sound! LOVE them!",
+            "Review_Date__c": "2020-10-22",
+            "Prediction_Result__c": "0.999977",
+            "Response_Time_ms__c": 1331,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999977,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef79"
+            },
+            "Review__c": "Very nice quite pleased.",
+            "Review_Date__c": "2021-01-15",
+            "Prediction_Result__c": "0.999960",
+            "Response_Time_ms__c": 1574,
+            "Reviewer_Age__c": 55,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99996,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef80"
+            },
+            "Review__c": "Been disappointed with this one from Acme. It started off at 529$ list and now went down to 359$ in no less than 2 months. The model is a failure. The detail of the sound is no great and the speakers are weak. The acoustics module doesn't deliver somehow.",
+            "Review_Date__c": "2020-11-20",
+            "Prediction_Result__c": "0.003038",
+            "Response_Time_ms__c": 1725,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.003038,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef81"
+            },
+            "Review__c": "Simple and easy to install with the Acme quality sound.  Don't expect the surround sound, but do expect high quality sound.  You can crank this little beauties up and they will put out clear sound without speaker rattle or distortion.  I bought this system to replace my Sony 7.1 surround system.  Sony is great, but the quality of sound from Acme is better.  I go tied of the wires.  I would've love the wireless system Acme has but I didn't want to deal out the 1700 plus dollars for it.  My TV/Family room is fairly small, so this little beauty is more than enough.  The sound bounces off of the walls and does create a virtual surround effect.  A larger room wouldn't give that effect, but me...this system more than adequate.",
+            "Review_Date__c": "2020-12-11",
+            "Prediction_Result__c": "0.996563",
+            "Response_Time_ms__c": 1702,
+            "Reviewer_Age__c": 56,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.996563,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef82"
+            },
+            "Review__c": "I have owned this for one week. I bought it when it was priced at $359. At this price, I think this is the best Cinema 2.1 system for such a small foot print. Acme is very good that making small speakers sound big.",
+            "Review_Date__c": "2020-11-06",
+            "Prediction_Result__c": "0.999999",
+            "Response_Time_ms__c": 2011,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999999,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef83"
+            },
+            "Review__c": "[[VIDEOID:e6f19970d4ece7e0ddd137a5dcc95f64]] I like this system a lot for the bedroom. Takes up very little space and if found for the right price a good catch. Definitely do not pay over $350. Once you do other better products starts to come into the picture. This model has been replaced so expect it to drop in price. If you miss the holiday prices be patient through the first two quarters of next year. Should drop. Head over to my you tube channel and check out all my other videos. search Isaiah's Reviews. Thanks!",
+            "Review_Date__c": "2020-11-27",
+            "Prediction_Result__c": "0.981492",
+            "Response_Time_ms__c": 1149,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.981492,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef84"
+            },
+            "Review__c": "Its all I expected.",
+            "Review_Date__c": "2021-01-04",
+            "Prediction_Result__c": "0.507195",
+            "Response_Time_ms__c": 1861,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.507195,
+            "Star_Rating__c": "3",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef85"
+            },
+            "Review__c": "Sorry bit the acoustics in my house must be bad...bought BA and a sub that put this to shame. I would not recommend",
+            "Review_Date__c": "2021-07-21",
+            "Prediction_Result__c": "0.000109",
+            "Response_Time_ms__c": 1972,
+            "Reviewer_Age__c": 47,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.000109,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef86"
+            },
+            "Review__c": "One word, AWESOME! Best sound system I have bought in the last two decades.",
+            "Review_Date__c": "2020-11-12",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1326,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef87"
+            },
+            "Review__c": "Terrific sound, everything in the backgroind is crystal clear.",
+            "Review_Date__c": "2021-01-03",
+            "Prediction_Result__c": "0.998756",
+            "Response_Time_ms__c": 1407,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998756,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef88"
+            },
+            "Review__c": "Works great. Luv this system. Even bought the nose stands for speakers.",
+            "Review_Date__c": "2021-01-20",
+            "Prediction_Result__c": "0.932060",
+            "Response_Time_ms__c": 2429,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.93206,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef89"
+            },
+            "Review__c": "Love my Acme",
+            "Review_Date__c": "2021-03-04",
+            "Prediction_Result__c": "0.996060",
+            "Response_Time_ms__c": 1834,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99606,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef90"
+            },
+            "Review__c": "Sound great!",
+            "Review_Date__c": "2021-06-29",
+            "Prediction_Result__c": "0.997035",
+            "Response_Time_ms__c": 1313,
+            "Reviewer_Age__c": 49,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.997035,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef91"
+            },
+            "Review__c": "Crisp, clean, sound in a streamlined and simple set",
+            "Review_Date__c": "2020-11-27",
+            "Prediction_Result__c": "0.697021",
+            "Response_Time_ms__c": 3141,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.697021,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef92"
+            },
+            "Review__c": "I think this is a really good system for the money. It just wasn't giving me what I was looking for in a home theater system. I spent a little more and ended up getting the Acme CineMate 520",
+            "Review_Date__c": "2021-01-06",
+            "Prediction_Result__c": "0.999268",
+            "Response_Time_ms__c": 2972,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999268,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef93"
+            },
+            "Review__c": "Classic Acme equipment, easy to install & sounds great",
+            "Review_Date__c": "2021-05-19",
+            "Prediction_Result__c": "0.856230",
+            "Response_Time_ms__c": 3101,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.85623,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef94"
+            },
+            "Review__c": "Sound great and love it",
+            "Review_Date__c": "2021-07-31",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 2397,
+            "Reviewer_Age__c": 68,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef95"
+            },
+            "Review__c": "Sounds wonderful, more like surround sound. Only problem is you can't adjust the sounds. You can adjust the bass with a knob on the woofer itself but can't adjust an thing else. Sometimes they need to be changed when going from TV to movie to music. Other than that it's great for the price.",
+            "Review_Date__c": "2021-02-01",
+            "Prediction_Result__c": "0.999755",
+            "Response_Time_ms__c": 3024,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999755,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef96"
+            },
+            "Review__c": "Best sound system for the money",
+            "Review_Date__c": "2021-05-07",
+            "Prediction_Result__c": "0.999994",
+            "Response_Time_ms__c": 1699,
+            "Reviewer_Age__c": 56,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999994,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef97"
+            },
+            "Review__c": "I didn't purchase my Acme Cinemate ll here on Amazon. I purchased it from a Doctor in Monterey, Calif. (15/05/2021) I purchased this Sound System to enable my Elderly Father to hear the Television. I had a Yamaha 7.1 Home Theater System installed on his TV but my Parents found that to be very difficult to use.<br />The Acme has a very simple Remote and is easy for Anyone to use to adjust the  volume.<br />The sound quality is exceptional and the speech tones are clear and very easy to comprehend.<br />Quality of Acme is fantastic. I would recommend this System to anyone wanting a simple Sound System that sounds great and is easy to use.",
+            "Review_Date__c": "2021-05-16",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 2254,
+            "Reviewer_Age__c": 40,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef98"
+            },
+            "Review__c": "The best no doubt",
+            "Review_Date__c": "2020-12-06",
+            "Prediction_Result__c": "0.994419",
+            "Response_Time_ms__c": 3874,
+            "Reviewer_Age__c": 68,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.994419,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef99"
+            },
+            "Review__c": "This headset is the best..go get it!",
+            "Review_Date__c": "2020-10-15",
+            "Prediction_Result__c": "0.441648",
+            "Response_Time_ms__c": 2220,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.441648,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef100"
+            },
+            "Review__c": "I've had this product for awhile now.  This product is worth the buy.  It works well and it's very easy to install.  It has a clear sound and easy to use.",
+            "Review_Date__c": "2021-08-18",
+            "Prediction_Result__c": "0.999964",
+            "Response_Time_ms__c": 1892,
+            "Reviewer_Age__c": 49,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999964,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef101"
+            },
+            "Review__c": "Great",
+            "Review_Date__c": "2021-08-23",
+            "Prediction_Result__c": "0.957135",
+            "Response_Time_ms__c": 1696,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.957135,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef102"
+            },
+            "Review__c": "This is my second one of these. The last one lasted a couple of years and only after dropping it in water did it malfunction. These have the best sound quality of all the headsets I have used. Thumbs up!",
+            "Review_Date__c": "2021-07-15",
+            "Prediction_Result__c": "0.999753",
+            "Response_Time_ms__c": 1153,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999753,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef103"
+            },
+            "Review__c": "Its good but does not have a good ring tone in it its to low",
+            "Review_Date__c": "2021-07-27",
+            "Prediction_Result__c": "0.964999",
+            "Response_Time_ms__c": 1347,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.964999,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef104"
+            },
+            "Review__c": "Great fit. Great noise reduction around heavy truck and equipment noise. Hope they come out with a next series.",
+            "Review_Date__c": "2021-08-09",
+            "Prediction_Result__c": "0.983685",
+            "Response_Time_ms__c": 2702,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.983685,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef105"
+            },
+            "Review__c": "Reliable. Have used for years. Good sound quality; easy to use.",
+            "Review_Date__c": "2021-08-11",
+            "Prediction_Result__c": "0.994900",
+            "Response_Time_ms__c": 1791,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.9949,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef106"
+            },
+            "Review__c": "Acme quality is evident - it ought to be for the price, thsi is an expnsive unit bought to replace the one that I lost. The Series 2 is much better than my first unit. I had a left ear one before, only right ear availalbe, but I prefer left and for he money, should be easier to be able to choose. Sound quality good, connection excellent. The earpiece buttons are difficult to use and almost alsway have to take it out of ear, make adjustments in volume, and so on, until you get it right.",
+            "Review_Date__c": "2021-08-12",
+            "Prediction_Result__c": "0.997055",
+            "Response_Time_ms__c": 2301,
+            "Reviewer_Age__c": 74,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.997055,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef107"
+            },
+            "Review__c": "Should have read the reviews prior to purchasing the Acme Series 2. Very disappointed in Acme to make such a poor product. I returned this unit 2 days after using it. Very low volume when listening to music. To bulky and nor comfortable to wear (at least for me). Purchased the Plantronics Marque 2 and rate that unit a 5 STAR !!!",
+            "Review_Date__c": "2020-12-07",
+            "Prediction_Result__c": "0.000003",
+            "Response_Time_ms__c": 1218,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.000003,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef108"
+            },
+            "Review__c": "Great headset but not durable. The power button broke on mine after only a 20 or so uses and I am very careful (It was even in a hard case - so possibly a design flaw?) My advice is only buy it with the expectation that you will need to replace it (I advise getting an extended warranty). Otherwise it's a great headset.",
+            "Review_Date__c": "2021-07-24",
+            "Prediction_Result__c": "0.993827",
+            "Response_Time_ms__c": 1292,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.993827,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef109"
+            },
+            "Review__c": "I have always loved these ear pcs its a shame Acme stopped making them",
+            "Review_Date__c": "2021-08-23",
+            "Prediction_Result__c": "0.996447",
+            "Response_Time_ms__c": 2777,
+            "Reviewer_Age__c": 29,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.996447,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef110"
+            },
+            "Review__c": "Use it all the time. Comfortable and reliable.",
+            "Review_Date__c": "2021-08-29",
+            "Prediction_Result__c": "0.999423",
+            "Response_Time_ms__c": 1950,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999423,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef111"
+            },
+            "Review__c": "By far, the best clarity on inbound and outbound audio of any BT headset I have ever owned. I have owned maybe 15 to 20 different BT headsets over the last few years. Price is exorbitant as are most Acme products. I typically will not buy Acme simply because they are overpriced. This was worth it if you are into paying $200+ for a  headset. I work a lot from the road so could justify the cost. Only complaint is the battery life is really pretty bad. I am lucky to get maybe 2 hours out of it before I have to recharge.",
+            "Review_Date__c": "2021-08-14",
+            "Prediction_Result__c": "0.991696",
+            "Response_Time_ms__c": 1188,
+            "Reviewer_Age__c": 45,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.991696,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef112"
+            },
+            "Review__c": "Arrived in timely manner.  I thought I was ordering a new Bluetooth device.  Imagine my surprise when upon opening it the box was labeled as a re-furnished Bluetooth Headset.  üòù.  It appears to be working well.",
+            "Review_Date__c": "2021-08-14",
+            "Prediction_Result__c": "0.999456",
+            "Response_Time_ms__c": 1326,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999456,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef113"
+            },
+            "Review__c": "The earpiece broke within 2 days and had to be glued back together.",
+            "Review_Date__c": "2021-07-08",
+            "Prediction_Result__c": "0.986020",
+            "Response_Time_ms__c": 1641,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.98602,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef114"
+            },
+            "Review__c": "Best Bluetooth headset ever!  I really like how firm this sits in the ear and the fact that the ear piece fits into the ear canal to ensure the best sound quality.  Only headset that I can hear regardless of noise conditions outside.  Pairing is super easy and it seems to always re-pair with no problem<br /><br />Only complaint is batter life.  2 to 3 hours of talk time is all you get out of this headset before you need to recharge",
+            "Review_Date__c": "2020-11-28",
+            "Prediction_Result__c": "0.999984",
+            "Response_Time_ms__c": 1177,
+            "Reviewer_Age__c": 49,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999984,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef115"
+            },
+            "Review__c": "Only 4 hours of talk time. Could not get very far from devise and keep clear sound",
+            "Review_Date__c": "2020-12-20",
+            "Prediction_Result__c": "0.001737",
+            "Response_Time_ms__c": 6076,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.001737,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef116"
+            },
+            "Review__c": "Best Bletooth headset I have ever owned. I wish Acme would continue to produce them.",
+            "Review_Date__c": "2021-07-03",
+            "Prediction_Result__c": "0.995702",
+            "Response_Time_ms__c": 4277,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.995702,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef117"
+            },
+            "Review__c": "Superb!!! üòç",
+            "Review_Date__c": "2021-07-25",
+            "Prediction_Result__c": "0.999917",
+            "Response_Time_ms__c": 1276,
+            "Reviewer_Age__c": 64,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999917,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef118"
+            },
+            "Review__c": "Hands down the best Bluetooth I have ever owned. I work around heavy equipment all day. I have no trouble hearing the person I am talking to, and have had people say they hear my voice clearly , and cannot hear the machinery in the background at all.<br /><br />It's a bit pricey, but well worth it if you spend a lot of time in a noisy invironment.",
+            "Review_Date__c": "2021-07-08",
+            "Prediction_Result__c": "0.999975",
+            "Response_Time_ms__c": 3371,
+            "Reviewer_Age__c": 26,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999975,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef119"
+            },
+            "Review__c": "product has performed as expected",
+            "Review_Date__c": "2021-08-31",
+            "Prediction_Result__c": "0.985511",
+            "Response_Time_ms__c": 3616,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.985511,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef120"
+            },
+            "Review__c": "Love it. The best Bluetooth I have ever had.<br />Sounds very clear .",
+            "Review_Date__c": "2021-07-05",
+            "Prediction_Result__c": "0.999917",
+            "Response_Time_ms__c": 4302,
+            "Reviewer_Age__c": 48,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999917,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef121"
+            },
+            "Review__c": "This little piece works fine but I already lost one and had to purchase another.. My next set will have an ear wrap for a better fit..",
+            "Review_Date__c": "2021-08-04",
+            "Prediction_Result__c": "0.996617",
+            "Response_Time_ms__c": 1045,
+            "Reviewer_Age__c": 25,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.996617,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef122"
+            },
+            "Review__c": "Great",
+            "Review_Date__c": "2021-08-14",
+            "Prediction_Result__c": "0.957135",
+            "Response_Time_ms__c": 1212,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.957135,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef123"
+            },
+            "Review__c": "Great sound, easy to use, easy to pair.  I was shoveling snow during Winter 2012 in the dark after work.  The headset had been on ear during the shoveling.  Somehow, I managed to lose the headset in the snow.  I searched in vain to find it that night, the following day and the following weekend.  Fast forward to Spring 2013.  Walking along the driveway, I found the headset I had lost two months ago.  After I let things dry out, I charged it up.  It did flicker in a funny way initally.  But it charged up nicely.  It did sound a bit funny initally, but within a half hour, it was working just fine.  Still have it!",
+            "Review_Date__c": "2020-11-13",
+            "Prediction_Result__c": "0.993596",
+            "Response_Time_ms__c": 1219,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.993596,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef124"
+            },
+            "Review__c": "Love this!",
+            "Review_Date__c": "2021-08-07",
+            "Prediction_Result__c": "0.943484",
+            "Response_Time_ms__c": 1188,
+            "Reviewer_Age__c": 31,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.943484,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef125"
+            },
+            "Review__c": "It was for the son; not me. He loves it, ease of use and quality of sound.",
+            "Review_Date__c": "2021-08-24",
+            "Prediction_Result__c": "0.072624",
+            "Response_Time_ms__c": 1312,
+            "Reviewer_Age__c": 40,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.072624,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef126"
+            },
+            "Review__c": "I have owned several different bluetooth headsets and this has far exceeded anything I have had in the past, from hearing to comfortable wearing.",
+            "Review_Date__c": "2020-10-22",
+            "Prediction_Result__c": "0.016732",
+            "Response_Time_ms__c": 1564,
+            "Reviewer_Age__c": 25,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.016732,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef127"
+            },
+            "Review__c": "I have owned several different bluetooth headsets and this has far exceeded anything I have had in the past, from hearing to comfortable wearing.",
+            "Review_Date__c": "2021-08-12",
+            "Prediction_Result__c": "0.016732",
+            "Response_Time_ms__c": 1239,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.016732,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef128"
+            },
+            "Review__c": "Best one ever.",
+            "Review_Date__c": "2020-11-09",
+            "Prediction_Result__c": "0.994432",
+            "Response_Time_ms__c": 3293,
+            "Reviewer_Age__c": 26,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.994432,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef129"
+            },
+            "Review__c": "Works great!!",
+            "Review_Date__c": "2021-08-17",
+            "Prediction_Result__c": "0.996690",
+            "Response_Time_ms__c": 1602,
+            "Reviewer_Age__c": 30,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99669,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef130"
+            },
+            "Review__c": "I'm very happy with this purchase.  Everything works well, and the audio clarity--both for myself and the person on the other end of the line--is excellent.  It also fits very comfortably in my ear, and still allows me to wear sunglasses while driving...and that's a big plus.  UPDATE: After more than 3 months of use, I'm just updating to say that this baby is still working perfectly.  I couldn't be happier with this purchase.  It's great for listening to music from my phone when I drive with the windows open.  It's very easy to operate, and I've not had a single call die due to bluetooth issues.  If I ever had to get another bluetooth headset, it would be this one again, no questions!",
+            "Review_Date__c": "2021-07-18",
+            "Prediction_Result__c": "0.863709",
+            "Response_Time_ms__c": 2294,
+            "Reviewer_Age__c": 74,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.863709,
+            "Star_Rating__c": "4",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef131"
+            },
+            "Review__c": "This is my second Acme bluetooth since Acme started making them. When the first one I had started acting weird or shouldn't I say it was about to die after 3-4 years Acme<br /> gave me a $75 discount for a new one. Unfortunately,  I had to repurchase another one with Amazon because my beautiful son lost the one I previously purchase. Acme no longer makes them. But its the best.",
+            "Review_Date__c": "2021-07-09",
+            "Prediction_Result__c": "0.771746",
+            "Response_Time_ms__c": 1945,
+            "Reviewer_Age__c": 64,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.771746,
+            "Star_Rating__c": "4",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef132"
+            },
+            "Review__c": "Best sound Of all the ear buds I've tried but the battery life is pretty bad.  I can't get through 2 1 hour calls without it dying.  Perhaps if someone came up with a little external battery to extend the life if would be viable.",
+            "Review_Date__c": "2020-12-14",
+            "Prediction_Result__c": "0.000001",
+            "Response_Time_ms__c": 2477,
+            "Reviewer_Age__c": 55,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.000001,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef133"
+            },
+            "Review__c": "The best of 5 different headsets I have tried and used.",
+            "Review_Date__c": "2021-08-26",
+            "Prediction_Result__c": "0.999023",
+            "Response_Time_ms__c": 1672,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999023,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef134"
+            },
+            "Review__c": "Awesome sound/volume/call quality. Very comfortable to wear.",
+            "Review_Date__c": "2021-08-25",
+            "Prediction_Result__c": "0.999892",
+            "Response_Time_ms__c": 2700,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999892,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef135"
+            },
+            "Review__c": "Great ear piece",
+            "Review_Date__c": "2021-08-31",
+            "Prediction_Result__c": "0.999929",
+            "Response_Time_ms__c": 1300,
+            "Reviewer_Age__c": 42,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999929,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef136"
+            },
+            "Review__c": "died within less than 3 hours. pretty much unusable.<br />Call quality was great though!",
+            "Review_Date__c": "2020-12-09",
+            "Prediction_Result__c": "0.343079",
+            "Response_Time_ms__c": 2258,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.343079,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef137"
+            },
+            "Review__c": "It is not hands free. It doesn't tell you who is calling you so you have to look down at your phone. Everytime I have want to use it I have to go into settings and pair it (you can't do that driving).",
+            "Review_Date__c": "2021-08-04",
+            "Prediction_Result__c": "0.998228",
+            "Response_Time_ms__c": 1153,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.998228,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef138"
+            },
+            "Review__c": "Great product!  Works well.",
+            "Review_Date__c": "2021-07-04",
+            "Prediction_Result__c": "0.999981",
+            "Response_Time_ms__c": 2505,
+            "Reviewer_Age__c": 68,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999981,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef139"
+            },
+            "Review__c": "Hands down one of the best bluetooth devices on the market! Been using this for the last couple of years and will say the only addition that should be included is something similar to the Jawbone noise reduction.",
+            "Review_Date__c": "2021-08-28",
+            "Prediction_Result__c": "0.998982",
+            "Response_Time_ms__c": 1551,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998982,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef140"
+            },
+            "Review__c": "Quite impressed, nice looking, easy to put in your ear and take out. Volume buttons on device, plus on and off, saves battery life after each call.",
+            "Review_Date__c": "2021-07-01",
+            "Prediction_Result__c": "0.999870",
+            "Response_Time_ms__c": 2354,
+            "Reviewer_Age__c": 39,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99987,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef141"
+            },
+            "Review__c": "I spend a lot of time on my cell phone (iPhone 5 currently) and have tried a number of bluetooth headsets over time. None are perfect, but overall, I prefer the Acme to any other headset I have used in the past.<br /><br />As I said above, I this headset for talking on the phone, not for listening to music or anything else so I will not consider any features specifically related to non-phone activities in this review.  Prior to the Acme, I was using (and still have as a backup) a current Jawbone Era so I will compare the Acme to the Era in this review.<br /><br />Audio quality: 4 (of 5) Both the Acme and the Era (4) have good audio quality for a small headset and are clear but, surprisingly, I find the sound from the Era more pleasing.<br />Noise canceling: 3.5 (of 5) The Acme is good, but I still get some wind and other noise. The Era (4) is a bit better in this regard.<br />Bluetooth: 5 (of 5) Acme wins here. The Acme establishes and maintains the bt connection to my iPhone far better than the Era (3.5).<br />Comfort: 4.5 (of 5) I can wear either the Acme or the Era (4.5) for extended periods without really noticing that they are there.<br />Stays put: 4 (of 5) For my ear at least, the headset stays put and I do not have to frequently re-seat it. Acme and Era (4) are on par here for me.<br />Battery life: 4 (of 5) Both the Acme and the Era (3.5) are small so they have small batteries. One could wish for many more hours of battery life but there is a cost in weight and size to this. Acme has achieved what I feel is a good compromise and seems to do a bit better than the Era.<br />Other features: With the Acme, I miss the battery life indicator that is available on the Era.",
+            "Review_Date__c": "2021-07-08",
+            "Prediction_Result__c": "0.999958",
+            "Response_Time_ms__c": 2343,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999958,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef142"
+            },
+            "Review__c": "best sound of any Bluetooth headsets I have tried....love it!",
+            "Review_Date__c": "2021-07-20",
+            "Prediction_Result__c": "0.970212",
+            "Response_Time_ms__c": 2455,
+            "Reviewer_Age__c": 58,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.970212,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef143"
+            },
+            "Review__c": "Very good product",
+            "Review_Date__c": "2021-08-24",
+            "Prediction_Result__c": "0.997206",
+            "Response_Time_ms__c": 3041,
+            "Reviewer_Age__c": 30,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.997206,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef144"
+            },
+            "Review__c": "the sound is amazing and very comfortable to wear",
+            "Review_Date__c": "2020-12-19",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1529,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef145"
+            },
+            "Review__c": "This is the best headset I have ever owned. Small, clear, fits like it;s not there. Don't lose it! I lost one and had to buy another.",
+            "Review_Date__c": "2020-11-01",
+            "Prediction_Result__c": "0.999522",
+            "Response_Time_ms__c": 1126,
+            "Reviewer_Age__c": 41,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999522,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef146"
+            },
+            "Review__c": "perfect for hands-free calling. clear quality and good range.",
+            "Review_Date__c": "2021-07-04",
+            "Prediction_Result__c": "0.996057",
+            "Response_Time_ms__c": 2052,
+            "Reviewer_Age__c": 41,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.996057,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef147"
+            },
+            "Review__c": "Best Headset for sound.",
+            "Review_Date__c": "2021-07-04",
+            "Prediction_Result__c": "0.993670",
+            "Response_Time_ms__c": 1386,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99367,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef148"
+            },
+            "Review__c": "Acme is always incredible and lasts forever. I own 2 of these for convenience of always having perfect clarity.<br /><br />Although distance from phone has become more of an issue. You are ok as long as you are within 15 feet with no walls, or 8 with 1 wall. Still perfect, would buy several mor.",
+            "Review_Date__c": "2021-07-31",
+            "Prediction_Result__c": "0.999622",
+            "Response_Time_ms__c": 1392,
+            "Reviewer_Age__c": 41,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999622,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef149"
+            },
+            "Review__c": "Love it. Bought this as a gift for my wife. She doesn't like headsets. She doesn't like the way they feel in her ear. However, she has a pair of Acme headphones that she loves. This headset has the same molded insert. She loves it! She uses it all the time. Well worth the money.",
+            "Review_Date__c": "2021-08-05",
+            "Prediction_Result__c": "0.999961",
+            "Response_Time_ms__c": 1129,
+            "Reviewer_Age__c": 72,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999961,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef150"
+            },
+            "Review__c": "Comfortable, reasonably discrete, works as expected!<br /><br />Minus 1 star because, I don't know, it's not magical? It's a bluetooth earpiece..",
+            "Review_Date__c": "2021-08-14",
+            "Prediction_Result__c": "0.033578",
+            "Response_Time_ms__c": 2718,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.033578,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef151"
+            },
+            "Review__c": "It's a the best Bluetooth on the market .",
+            "Review_Date__c": "2021-08-07",
+            "Prediction_Result__c": "0.999282",
+            "Response_Time_ms__c": 2107,
+            "Reviewer_Age__c": 73,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999282,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef152"
+            },
+            "Review__c": "It's a the best Bluetooth on the market .",
+            "Review_Date__c": "2021-07-19",
+            "Prediction_Result__c": "0.999282",
+            "Response_Time_ms__c": 2964,
+            "Reviewer_Age__c": 48,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999282,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef153"
+            },
+            "Review__c": "Without a doubt the best Bluetooth I have ever used. Light, clear and easy to use",
+            "Review_Date__c": "2021-07-08",
+            "Prediction_Result__c": "0.992956",
+            "Response_Time_ms__c": 1966,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.992956,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef154"
+            },
+            "Review__c": "I love everything about this Bluetooth The quality of sound if great. The only thing they need to improve is the battery life. Its only good for about 4 hours talking or standby.",
+            "Review_Date__c": "2021-08-30",
+            "Prediction_Result__c": "0.990903",
+            "Response_Time_ms__c": 1743,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.990903,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef155"
+            },
+            "Review__c": "does anyone have a problem with really bad background noise when using it with the Galaxy note 4?<br />If I have water running in the background the person on the other end says it is super super super loud.",
+            "Review_Date__c": "2021-07-20",
+            "Prediction_Result__c": "0.997924",
+            "Response_Time_ms__c": 1552,
+            "Reviewer_Age__c": 52,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.997924,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef156"
+            },
+            "Review__c": "Worth it",
+            "Review_Date__c": "2021-07-29",
+            "Prediction_Result__c": "0.997605",
+            "Response_Time_ms__c": 1126,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.997605,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef157"
+            },
+            "Review__c": "This is my second Acme bluetooth headset. First one lasted for years. This one stopped working six weeks after I received it. I have been trying to get Acme customer service for over a week. The call is put on hold and I have held for up to an hour, and no one comes on the line. Won't buy anything from Acme ever again.",
+            "Review_Date__c": "2021-08-16",
+            "Prediction_Result__c": "0.999782",
+            "Response_Time_ms__c": 2532,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999782,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef158"
+            },
+            "Review__c": "GREAT BLUETOOTH HEADSET....THE CLARITY IS AWESOME",
+            "Review_Date__c": "2021-08-20",
+            "Prediction_Result__c": "0.999971",
+            "Response_Time_ms__c": 1120,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999971,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef159"
+            },
+            "Review__c": "I really do love this bluetooth earpiece. It is, admittedly, expensive. But I can pair AND CONNECT to two phones at the same time. So I can answer both my work and personal phones easily. The battery life is fine, not exceptional. I get about three and a half hours uninterrupted time on each charge. It fits my ear well. The sound quality is very good. I checked with some folks and they did not know I was not speaking directly into my phone--even in the car, where there tends to be a bit of background noise. Very happy with this purchase.",
+            "Review_Date__c": "2021-08-03",
+            "Prediction_Result__c": "0.999989",
+            "Response_Time_ms__c": 1632,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999989,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef160"
+            },
+            "Review__c": "Great sound quality and fit. Two nit-picky issues I wish they could change with a high quality product from Acme: 1) I would love to be able to see battery status on my phone to know how much life I actually have left and 2) I wish the battery life was a bit longer.",
+            "Review_Date__c": "2021-07-29",
+            "Prediction_Result__c": "0.999948",
+            "Response_Time_ms__c": 2813,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999948,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef161"
+            },
+            "Review__c": "THINK I over paid the battery only last 2 hours very disappointed",
+            "Review_Date__c": "2021-07-31",
+            "Prediction_Result__c": "0.000004",
+            "Response_Time_ms__c": 1878,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.000004,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef162"
+            },
+            "Review__c": "excellent, delivered as promised",
+            "Review_Date__c": "2021-08-25",
+            "Prediction_Result__c": "0.999641",
+            "Response_Time_ms__c": 1330,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999641,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef163"
+            },
+            "Review__c": "bad reception. replaced with Plantonics -- which is awesome.",
+            "Review_Date__c": "2020-12-20",
+            "Prediction_Result__c": "0.999123",
+            "Response_Time_ms__c": 1623,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999123,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef164"
+            },
+            "Review__c": "I like the unit.  The earpiece is a little small so I ordered a new set (4.99), otherwise it's really great...",
+            "Review_Date__c": "2021-07-16",
+            "Prediction_Result__c": "0.999626",
+            "Response_Time_ms__c": 1230,
+            "Reviewer_Age__c": 25,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999626,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef165"
+            },
+            "Review__c": "Acme is better!! I had a Jabre Extreme headset that hurt my ear, came loose which made it hard to hear, and lost connection occasionally. This is a different story. I wear it all day comfortably. Forget its in my ear. Sound is incredible. Pairs and stays paired with my 6 plus. Best choice. You really get what you pay for with Acme",
+            "Review_Date__c": "2020-12-08",
+            "Prediction_Result__c": "0.999991",
+            "Response_Time_ms__c": 3151,
+            "Reviewer_Age__c": 72,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999991,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef166"
+            },
+            "Review__c": "The battery life is really something to be desired.  For a top brand Bluetooth by Acme, I really expected it to have a longer lifespan like others do. We purchased it for the quality and brand.",
+            "Review_Date__c": "2021-08-24",
+            "Prediction_Result__c": "0.985927",
+            "Response_Time_ms__c": 2178,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.985927,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef167"
+            },
+            "Review__c": "Without question, the finest cellphone earpiece on the planet. Worth the money. Worth double the money.",
+            "Review_Date__c": "2020-12-12",
+            "Prediction_Result__c": "0.978271",
+            "Response_Time_ms__c": 2070,
+            "Reviewer_Age__c": 33,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.978271,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef168"
+            },
+            "Review__c": "Fantastic Device. Pity they dont make them anymore!",
+            "Review_Date__c": "2021-08-23",
+            "Prediction_Result__c": "0.999499",
+            "Response_Time_ms__c": 1113,
+            "Reviewer_Age__c": 25,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999499,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef169"
+            },
+            "Review__c": "Slightly disappointed sound quality about the same as the 100.00 blue ant & it looses signal at about 30 feet, the blue ant is good for about 100 feet or more",
+            "Review_Date__c": "2021-07-05",
+            "Prediction_Result__c": "0.005054",
+            "Response_Time_ms__c": 1278,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.005054,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef170"
+            },
+            "Review__c": "I have had many wireless headsets but nothing like this Acme! Other headsets you either couldn't hear me,it had a lot of background noise or I couldn't hear the person on the other line. This headset is the opposite of all the others I have had. My only complaint is I wish it would stay charged longer.",
+            "Review_Date__c": "2021-08-09",
+            "Prediction_Result__c": "0.996602",
+            "Response_Time_ms__c": 2220,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.996602,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef171"
+            },
+            "Review__c": "Only positive!<br />Product was exactly what I wanted.  Shipping experience was exactly what I needed.<br />Thank you.",
+            "Review_Date__c": "2020-10-31",
+            "Prediction_Result__c": "0.842233",
+            "Response_Time_ms__c": 1209,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.842233,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef172"
+            },
+            "Review__c": "As others have commented, the audio quality is excellent. Much better than the Jabra I had. Downside, the built-in &#34;smarts&#34; of the Jabra made it more convenient to use. Once paired, Jabra auto-connected when turned on; Acme does not. Acme also doesn't have the nice little web app that tells you how much battery power is left - Jabra did.<br /><br />No perfect solution yet...",
+            "Review_Date__c": "2020-11-14",
+            "Prediction_Result__c": "0.999977",
+            "Response_Time_ms__c": 1893,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999977,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef173"
+            },
+            "Review__c": "Yes, can't go wrong with Acme.",
+            "Review_Date__c": "2021-07-27",
+            "Prediction_Result__c": "0.004903",
+            "Response_Time_ms__c": 3658,
+            "Reviewer_Age__c": 68,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.004903,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef174"
+            },
+            "Review__c": "Acme has knocked this one out of the park not only in sound quality but in the ergonomic design to lock in to the ear cannel.",
+            "Review_Date__c": "2021-07-30",
+            "Prediction_Result__c": "0.073812",
+            "Response_Time_ms__c": 1319,
+            "Reviewer_Age__c": 25,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.073812,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef175"
+            },
+            "Review__c": "Best quality Bluetooth ever!",
+            "Review_Date__c": "2021-08-06",
+            "Prediction_Result__c": "0.883302",
+            "Response_Time_ms__c": 2591,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.883302,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef176"
+            },
+            "Review__c": "Use this everyday at work..  Great noise cancellation.  Wonderful product.",
+            "Review_Date__c": "2021-08-31",
+            "Prediction_Result__c": "0.999187",
+            "Response_Time_ms__c": 1105,
+            "Reviewer_Age__c": 25,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999187,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef177"
+            },
+            "Review__c": "The sound is outstanding, Comfort is the best I have experienced and it would have received a 5 star rating if it was not for the battery life and lack of battery meter app. The sound is clear crisp and clean, functions well in high background noise areas. The ear piece is comfortable and easily worn for many hours. However the dream ends with a rising volume of beeps that leads to a quick dead battery situation. Acme has not come up with a app that alerts you or allows you to monitor battery life. This is the only flaw in the earpiece.",
+            "Review_Date__c": "2020-11-23",
+            "Prediction_Result__c": "0.970304",
+            "Response_Time_ms__c": 2132,
+            "Reviewer_Age__c": 64,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.970304,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef178"
+            },
+            "Review__c": "AWESOME!!!!!! Best Bluetooth ever! I had one and lost it and Acme doesn't make them anymore. I was lost without it so thank goodness Amazon sold them!!",
+            "Review_Date__c": "2021-08-19",
+            "Prediction_Result__c": "0.999900",
+            "Response_Time_ms__c": 1955,
+            "Reviewer_Age__c": 69,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.9999,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef179"
+            },
+            "Review__c": "Excellent product. Use it a lot while talking with family overseas and still move around the house while doing so.",
+            "Review_Date__c": "2021-08-21",
+            "Prediction_Result__c": "0.999968",
+            "Response_Time_ms__c": 2026,
+            "Reviewer_Age__c": 33,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999968,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef180"
+            },
+            "Review__c": "Best bluetooth out there in sound quality definetly worth it. We have gone through 3 sets and they are just the only ones that truley hVe high quality sound.",
+            "Review_Date__c": "2021-08-31",
+            "Prediction_Result__c": "0.436663",
+            "Response_Time_ms__c": 2928,
+            "Reviewer_Age__c": 37,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.436663,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef181"
+            },
+            "Review__c": "Sounds great.  Kinda inconvenient that it only fits in one ear, but it works and sounds so good.  Battery life is kinda meh, but I am able to charge it throughout the day as needed.",
+            "Review_Date__c": "2021-08-28",
+            "Prediction_Result__c": "0.999990",
+            "Response_Time_ms__c": 1133,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99999,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef182"
+            },
+            "Review__c": "I love this blue tooth.",
+            "Review_Date__c": "2021-08-07",
+            "Prediction_Result__c": "0.999114",
+            "Response_Time_ms__c": 1857,
+            "Reviewer_Age__c": 25,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999114,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef183"
+            },
+            "Review__c": "Didn't like the this Bluetooth as a much as I thought I would for the price. Does not hold a charge very long. Sound is just average. Battery power/usage doesn't display on phone. Expected so much more from Acme and for the price. The Motorola Bluetooth (550) series I had before was a lot better and less than half the price.",
+            "Review_Date__c": "2020-12-16",
+            "Prediction_Result__c": "0.001764",
+            "Response_Time_ms__c": 2580,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.001764,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef184"
+            },
+            "Review__c": "purchased this one to replace one lost",
+            "Review_Date__c": "2021-07-15",
+            "Prediction_Result__c": "0.039991",
+            "Response_Time_ms__c": 1522,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.039991,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef185"
+            },
+            "Review__c": "The best no doubt",
+            "Review_Date__c": "2021-08-05",
+            "Prediction_Result__c": "0.994419",
+            "Response_Time_ms__c": 1198,
+            "Reviewer_Age__c": 49,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.994419,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef186"
+            },
+            "Review__c": "no in-depth review here. But this Acme bluetooth is great. The sound is great (hearing other people), and even with the windows rolled down in the car and talking to someone, the person can easily hear me and not hear any of the road/car noise. Very easy to use, very easy to quickly put on the ear, and all-day comfortable. The battery lasts quite a long time. I have many other Acme products, and this bluetooth is further evidence that their audio products are top-notch.",
+            "Review_Date__c": "2021-07-18",
+            "Prediction_Result__c": "0.667887",
+            "Response_Time_ms__c": 1389,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.667887,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef187"
+            },
+            "Review__c": "best one on the market",
+            "Review_Date__c": "2021-07-24",
+            "Prediction_Result__c": "0.994111",
+            "Response_Time_ms__c": 4316,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.994111,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef188"
+            },
+            "Review__c": "I have had 3 of these Acme Headsets and they are the absolute best on the market.  I have tried almost every single headset available on the market and this one is BY FAR superior to all others.  It is well worth the price.",
+            "Review_Date__c": "2021-08-02",
+            "Prediction_Result__c": "0.999965",
+            "Response_Time_ms__c": 2726,
+            "Reviewer_Age__c": 48,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999965,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef189"
+            },
+            "Review__c": "Acme is the best I've owned, as a local truck driver I have had many Bluetooths that are to tight  in and on the ears with Acme i  forget that I'm wearing it, it's very comfortable you cannot beat the quality and sound of the series 2.",
+            "Review_Date__c": "2021-08-16",
+            "Prediction_Result__c": "0.999947",
+            "Response_Time_ms__c": 1205,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999947,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef190"
+            },
+            "Review__c": "It is a small, lightweight, comfortable to wear, well you can hear",
+            "Review_Date__c": "2021-07-22",
+            "Prediction_Result__c": "0.999995",
+            "Response_Time_ms__c": 2606,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999995,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef191"
+            },
+            "Review__c": "Loved the 1st, replaced it after several years of use",
+            "Review_Date__c": "2021-08-19",
+            "Prediction_Result__c": "0.999686",
+            "Response_Time_ms__c": 1161,
+            "Reviewer_Age__c": 47,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999686,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef192"
+            },
+            "Review__c": "Falls out of your ear if you bend over.<br />Poor battery life.<br />Excellent sound.",
+            "Review_Date__c": "2021-08-10",
+            "Prediction_Result__c": "0.001530",
+            "Response_Time_ms__c": 1387,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.00153,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef193"
+            },
+            "Review__c": "Falls out of your ear if you bend over.<br />Poor battery life.<br />Excellent sound.",
+            "Review_Date__c": "2020-11-10",
+            "Prediction_Result__c": "0.001530",
+            "Response_Time_ms__c": 2001,
+            "Reviewer_Age__c": 41,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.00153,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef194"
+            },
+            "Review__c": "I didn't buy this on Amazon.  I bought this in store.  It is freaking amazing.  I love this thing! I am getting a second one so that one is always charged and ready for use.  I'm on the phone a lot and with a brand new construction project just across the street, it's great that not one person can hear the jackhammers, cranes, bulldozers, and any other construction equipment...in fact, with this headset, I leave all my windows open!!!! So nice to be able to get the breeze through my apartment again and not have it interrupt my work calls",
+            "Review_Date__c": "2021-07-04",
+            "Prediction_Result__c": "0.989992",
+            "Response_Time_ms__c": 1911,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.989992,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef195"
+            },
+            "Review__c": "Love these Bluetooths!",
+            "Review_Date__c": "2021-07-13",
+            "Prediction_Result__c": "0.993696",
+            "Response_Time_ms__c": 1186,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.993696,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef196"
+            },
+            "Review__c": "Great item great delivery, we are happy with this seller, will deal again",
+            "Review_Date__c": "2021-07-15",
+            "Prediction_Result__c": "0.999955",
+            "Response_Time_ms__c": 1269,
+            "Reviewer_Age__c": 73,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999955,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef197"
+            },
+            "Review__c": "Great product. Highly recommend over all others. I have had several and by far this one is far superior.",
+            "Review_Date__c": "2021-07-16",
+            "Prediction_Result__c": "0.999960",
+            "Response_Time_ms__c": 2239,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99996,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        }
+    ]
+}

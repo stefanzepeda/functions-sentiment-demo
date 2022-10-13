@@ -1,0 +1,66 @@
+{
+  "appPageId" : "56c205ea-042c-48af-87f9-ac525616a54b",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "4d7cad0a-72fb-4795-a524-cc1dfcddd98b",
+  "label" : "Customer Product Detail",
+  "regions" : [ {
+    "id" : "82cceba8-14f7-475e-a8ac-de629753a914",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "recordId" : "{!recordId}"
+      },
+      "componentName" : "forceCommunity:recordHeadline",
+      "id" : "0edc56c4-8863-41ff-b366-cc9e47f1a2a2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "recordId" : "{!recordId}"
+      },
+      "componentName" : "forceCommunity:lwcRecordDetail",
+      "id" : "1536bbda-3b6b-4f6a-b05e-e356698b0878",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "recordId" : "{!recordId}",
+        "width" : "MEDIUM"
+      },
+      "componentName" : "forceCommunity:relatedRecords",
+      "id" : "d823692a-859c-464f-b9a5-3fdf99edbacc",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f32114be-89d4-45d7-ae95-dbd72b31d8d4",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "d944c389-cbdc-478d-96c5-98af5f8b6df5",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "{!Record._Object}: {!Record._Title}"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "4f929a10-1fe3-44b5-9f04-7e76b66e2da2",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c1d0a700-3c31-45f2-b451-82bb4119af3a",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "detail-a01"
+}

@@ -1,0 +1,1642 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef1"
+            },
+            "Review__c": "Great sound from a small package. Use them for my TV surround. Good mid-range and high end response.",
+            "Review_Date__c": "2021-07-25",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 2576,
+            "Reviewer_Age__c": 63,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 1,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef2"
+            },
+            "Review__c": "I love these... Very responsive, mounted easily and sound great!!! These look good and I use them for my surround rear speakers. They bring real depth of field. Be mindful that these are for mids and highs... For the money these are simply as good as it gets.",
+            "Review_Date__c": "2021-04-29",
+            "Prediction_Result__c": "0.999987",
+            "Response_Time_ms__c": 3769,
+            "Reviewer_Age__c": 42,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999987,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef3"
+            },
+            "Review__c": "Clear good sound prompt delivery",
+            "Review_Date__c": "2021-05-30",
+            "Prediction_Result__c": "0.056969",
+            "Response_Time_ms__c": 1821,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.056969,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef4"
+            },
+            "Review__c": "Very nice set of speakers",
+            "Review_Date__c": "2021-01-06",
+            "Prediction_Result__c": "0.941559",
+            "Response_Time_ms__c": 3609,
+            "Reviewer_Age__c": 39,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.941559,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef5"
+            },
+            "Review__c": "Hello!!!, it's Acme so it is Awesome.",
+            "Review_Date__c": "2021-02-24",
+            "Prediction_Result__c": "0.999996",
+            "Response_Time_ms__c": 2618,
+            "Reviewer_Age__c": 42,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999996,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef6"
+            },
+            "Review__c": "using as rears in home theater and they are just right. would purchase them again. i have polk 75t's in the fornt a a cs2 in the center and it sounds great.",
+            "Review_Date__c": "2021-02-23",
+            "Prediction_Result__c": "0.999856",
+            "Response_Time_ms__c": 1945,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999856,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef7"
+            },
+            "Review__c": "The Acme system is, of course, quite good. The high frequency notes are clear, crisp and clean. Actually the bass is pretty good too, even though it is meant to be more of a tweeter. My mid frequency  array and sub-woofer are not a Acme but melds nicely into a fine surround sound system.",
+            "Review_Date__c": "2020-10-27",
+            "Prediction_Result__c": "0.999963",
+            "Response_Time_ms__c": 1950,
+            "Reviewer_Age__c": 47,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999963,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef8"
+            },
+            "Review__c": "these sound awesome with my other speaker system.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1398,
+            "Reviewer_Age__c": 35,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef9"
+            },
+            "Review__c": "great sound, hard to mount, need better connectors",
+            "Review_Date__c": "2021-03-30",
+            "Prediction_Result__c": "0.999414",
+            "Response_Time_ms__c": 1260,
+            "Reviewer_Age__c": 40,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999414,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef10"
+            },
+            "Review__c": "These speakers are okay. I would like to state that the mounting bracket requires some redesign by Acme!",
+            "Review_Date__c": "2021-04-10",
+            "Prediction_Result__c": "0.020558",
+            "Response_Time_ms__c": 1675,
+            "Reviewer_Age__c": 30,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.020558,
+            "Star_Rating__c": "1",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef11"
+            },
+            "Review__c": "I installed these outdoors on my patio to replace a set of Advent speaker that I have been using for about 10 years.  I was not impressed with the sound quality and was not what I expected from Acme.",
+            "Review_Date__c": "2021-07-03",
+            "Prediction_Result__c": "0.678780",
+            "Response_Time_ms__c": 1467,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.67878,
+            "Star_Rating__c": "3",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef12"
+            },
+            "Review__c": "of course they're Acme they sound great",
+            "Review_Date__c": "2021-01-10",
+            "Prediction_Result__c": "0.988223",
+            "Response_Time_ms__c": 2550,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.988223,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef13"
+            },
+            "Review__c": "First of all I will make this review as helpful as possible. I am very experienced with speakers so I will give you my honest opinion. First of all I got these speakers because I needed surround speakers. I tested them out with my music first. They did get fairly loud without distorting but I didn't max them out because it was already too loud for my ears. There is no lows a bit of highs and mainly mids, so I would say they are flat wich is sometimes better because in movies and in music the sound is more accurate. I tried them as fronts and they did good but then I used them as my surrounds and they did great. I recommend them for surrounds. I also suggest that you know what receiver and gauge wire you use for this. Everything makes a difference even the type of connection so try to stay away from analog and stick to digital.",
+            "Review_Date__c": "2021-01-06",
+            "Prediction_Result__c": "0.490289",
+            "Response_Time_ms__c": 3413,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.490289,
+            "Star_Rating__c": "2",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef14"
+            },
+            "Review__c": "The Acme speakers are amazing.  I'm very satisfied purchase.",
+            "Review_Date__c": "2021-04-29",
+            "Prediction_Result__c": "0.999996",
+            "Response_Time_ms__c": 1722,
+            "Reviewer_Age__c": 27,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999996,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef15"
+            },
+            "Review__c": "Speakers are atop an 8' high wall, spaced 12' apart in a 1200 sq. ft. space. They sound (and look) great and have more than enough power to fill the room. These are hooked up to a stereo receiver and used as main speakers. You can't beat the price and mounting brackets are included. Would definitely buy again.",
+            "Review_Date__c": "2021-03-16",
+            "Prediction_Result__c": "0.999975",
+            "Response_Time_ms__c": 1769,
+            "Reviewer_Age__c": 58,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999975,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef16"
+            },
+            "Review__c": "Sound quality is mediocre compared to the brands other speakers. Competive price.",
+            "Review_Date__c": "2020-11-07",
+            "Prediction_Result__c": "0.000259",
+            "Response_Time_ms__c": 2099,
+            "Reviewer_Age__c": 58,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.000259,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef17"
+            },
+            "Review__c": "Hi can I use this speaker for my flat screen Samsung TV 40&#34;?<br />Thanks",
+            "Review_Date__c": "2021-06-13",
+            "Prediction_Result__c": "0.996634",
+            "Response_Time_ms__c": 1941,
+            "Reviewer_Age__c": 45,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.996634,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef18"
+            },
+            "Review__c": "I love these speakers! using them as rear speakers on a surround sound system",
+            "Review_Date__c": "2021-06-16",
+            "Prediction_Result__c": "0.999988",
+            "Response_Time_ms__c": 1833,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999988,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef19"
+            },
+            "Review__c": "for small speakers they do a great job with a very strong and clear sound",
+            "Review_Date__c": "2021-03-02",
+            "Prediction_Result__c": "0.999995",
+            "Response_Time_ms__c": 1522,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999995,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef20"
+            },
+            "Review__c": "Acme does it again. Great sound",
+            "Review_Date__c": "2020-12-10",
+            "Prediction_Result__c": "0.999950",
+            "Response_Time_ms__c": 5686,
+            "Reviewer_Age__c": 46,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99995,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef21"
+            },
+            "Review__c": "Quality sound! I'm hsppy!!",
+            "Review_Date__c": "2021-01-10",
+            "Prediction_Result__c": "0.476077",
+            "Response_Time_ms__c": 1446,
+            "Reviewer_Age__c": 41,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.476077,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef22"
+            },
+            "Review__c": "Fit perfectly in the shelves.  Sound great!",
+            "Review_Date__c": "2020-10-26",
+            "Prediction_Result__c": "0.999980",
+            "Response_Time_ms__c": 1241,
+            "Reviewer_Age__c": 72,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99998,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef23"
+            },
+            "Review__c": "I've had these speakers the better part of a year now, and just had one go out on me. Disappointing as I don't run these very hard. I have them configured as surround speakers. Frankly, while they were an upgrade from my old Polk surrounds (small and more like an introductory version), they have been disappointing sound quality-wise. This failure of one unit is probably my hint to move on. These were my first Acme speakers and you know what they say about first experiences...",
+            "Review_Date__c": "2020-12-08",
+            "Prediction_Result__c": "0.754303",
+            "Response_Time_ms__c": 1084,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.754303,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef24"
+            },
+            "Review__c": "BEST EVER  QUALITY",
+            "Review_Date__c": "2021-05-26",
+            "Prediction_Result__c": "0.943625",
+            "Response_Time_ms__c": 1417,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.943625,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef25"
+            },
+            "Review__c": "Sound wasn't as expected!",
+            "Review_Date__c": "2020-11-17",
+            "Prediction_Result__c": "0.801424",
+            "Response_Time_ms__c": 2098,
+            "Reviewer_Age__c": 48,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.801424,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef26"
+            },
+            "Review__c": "GREAT sounding speakers!",
+            "Review_Date__c": "2021-01-14",
+            "Prediction_Result__c": "0.999950",
+            "Response_Time_ms__c": 2245,
+            "Reviewer_Age__c": 37,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99995,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef27"
+            },
+            "Review__c": "Perfect for Daytime listening. Small and powerful!! For smaller areas though!!!",
+            "Review_Date__c": "2021-05-21",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1562,
+            "Reviewer_Age__c": 26,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef28"
+            },
+            "Review__c": "These speakers are very nice and have clear clean sound",
+            "Review_Date__c": "2021-02-03",
+            "Prediction_Result__c": "0.734792",
+            "Response_Time_ms__c": 3073,
+            "Reviewer_Age__c": 48,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.734792,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef29"
+            },
+            "Review__c": "They came with holes .........  I could not return them because they were ordered from Per√∫ through a carrier.  The holes were on both of them.  The mesh was with holes.......Waste of money........",
+            "Review_Date__c": "2020-10-22",
+            "Prediction_Result__c": "0.001995",
+            "Response_Time_ms__c": 2089,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.001995,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef30"
+            },
+            "Review__c": "Shipped as promised and look and sound great!  Just as good as our other Acme speakers.",
+            "Review_Date__c": "2021-06-08",
+            "Prediction_Result__c": "0.999985",
+            "Response_Time_ms__c": 2447,
+            "Reviewer_Age__c": 57,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999985,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef31"
+            },
+            "Review__c": "Great speakers and an amazing price",
+            "Review_Date__c": "2021-01-23",
+            "Prediction_Result__c": "0.999999",
+            "Response_Time_ms__c": 1709,
+            "Reviewer_Age__c": 74,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999999,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef32"
+            },
+            "Review__c": "As expected from Acme, excellent sound quality and was exactly what I needed for my sound system.",
+            "Review_Date__c": "2021-02-15",
+            "Prediction_Result__c": "0.999990",
+            "Response_Time_ms__c": 4057,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99999,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef33"
+            },
+            "Review__c": "Great sound for a great price...",
+            "Review_Date__c": "2021-05-31",
+            "Prediction_Result__c": "0.999921",
+            "Response_Time_ms__c": 1657,
+            "Reviewer_Age__c": 53,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999921,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef34"
+            },
+            "Review__c": "Unfortunately it is 4~8 ohms and most of the receivers and power amps are 8~16 ohms. I tested and it is ok, but I need to wait for a new amp to use it for the correct impedance.",
+            "Review_Date__c": "2021-03-10",
+            "Prediction_Result__c": "0.386031",
+            "Response_Time_ms__c": 2512,
+            "Reviewer_Age__c": 72,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.386031,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef35"
+            },
+            "Review__c": "great sound and easy to install",
+            "Review_Date__c": "2021-01-12",
+            "Prediction_Result__c": "0.999960",
+            "Response_Time_ms__c": 1295,
+            "Reviewer_Age__c": 69,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.99996,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef36"
+            },
+            "Review__c": "Only thing I wish is they were able to pivot on the wall.",
+            "Review_Date__c": "2021-03-18",
+            "Prediction_Result__c": "0.999257",
+            "Response_Time_ms__c": 1833,
+            "Reviewer_Age__c": 68,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999257,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef37"
+            },
+            "Review__c": "Woohooo They are gReat!",
+            "Review_Date__c": "2021-03-30",
+            "Prediction_Result__c": "0.976010",
+            "Response_Time_ms__c": 1763,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.97601,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef38"
+            },
+            "Review__c": "These speakers are exactly what we were looking for.  For years I've wanted to replace our oversize Ohm speakers for smaller version.  The sound is incredible and so easy to install.  They are in our family room so not a big room but they are a night vs. day difference to what we had.  Love them!",
+            "Review_Date__c": "2020-12-15",
+            "Prediction_Result__c": "0.999950",
+            "Response_Time_ms__c": 1168,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99995,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef39"
+            },
+            "Review__c": "They sound good, but not like I wish..  I prefer Jamo Speakers... by far.",
+            "Review_Date__c": "2020-10-28",
+            "Prediction_Result__c": "0.968861",
+            "Response_Time_ms__c": 2287,
+            "Reviewer_Age__c": 74,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.968861,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef40"
+            },
+            "Review__c": "Very clear. Very durable. Perfect balance of high's, mid's and low's. What else do you need from a speaker. Acme continues to deliver!",
+            "Review_Date__c": "2020-11-03",
+            "Prediction_Result__c": "0.999983",
+            "Response_Time_ms__c": 2079,
+            "Reviewer_Age__c": 37,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999983,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef41"
+            },
+            "Review__c": "Amazing sound",
+            "Review_Date__c": "2021-03-29",
+            "Prediction_Result__c": "0.999881",
+            "Response_Time_ms__c": 1145,
+            "Reviewer_Age__c": 41,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999881,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef42"
+            },
+            "Review__c": "EXCELLENT!! is all i can say!!!",
+            "Review_Date__c": "2021-04-20",
+            "Prediction_Result__c": "0.999962",
+            "Response_Time_ms__c": 2199,
+            "Reviewer_Age__c": 28,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999962,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef43"
+            },
+            "Review__c": "great surround speakers!",
+            "Review_Date__c": "2021-05-09",
+            "Prediction_Result__c": "0.999911",
+            "Response_Time_ms__c": 1813,
+            "Reviewer_Age__c": 64,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999911,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef44"
+            },
+            "Review__c": "Nice speakers! Very clear mids/highs.",
+            "Review_Date__c": "2021-05-09",
+            "Prediction_Result__c": "0.269936",
+            "Response_Time_ms__c": 1718,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.269936,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef45"
+            },
+            "Review__c": "These were fabulous! Hello!! They are Acme.  I had to return however because they did not fit in my console as I had hoped.  But I can highly recommend them otherwise. The sound and quality are everything you'd expect from a Acme product.",
+            "Review_Date__c": "2021-04-25",
+            "Prediction_Result__c": "0.991671",
+            "Response_Time_ms__c": 1186,
+            "Reviewer_Age__c": 73,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.991671,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef46"
+            },
+            "Review__c": "Mounted these on my wall in the kitchen to replace our old stereo speakers.  They are amazing, and make our much more expensive living room speakers sound muffled.  You can't beat the sound for the price...I highly recommend them!",
+            "Review_Date__c": "2020-12-27",
+            "Prediction_Result__c": "0.999989",
+            "Response_Time_ms__c": 2114,
+            "Reviewer_Age__c": 45,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999989,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef47"
+            },
+            "Review__c": "Mahvelous",
+            "Review_Date__c": "2020-11-17",
+            "Prediction_Result__c": "0.653573",
+            "Response_Time_ms__c": 2138,
+            "Reviewer_Age__c": 56,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.653573,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef48"
+            },
+            "Review__c": "They are wonderful!",
+            "Review_Date__c": "2021-01-26",
+            "Prediction_Result__c": "0.985679",
+            "Response_Time_ms__c": 1636,
+            "Reviewer_Age__c": 42,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.985679,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef49"
+            },
+            "Review__c": "service was impeccable, as usual. quality of speakers were what i expected from Acme. very pleased. ray",
+            "Review_Date__c": "2021-02-09",
+            "Prediction_Result__c": "0.999823",
+            "Response_Time_ms__c": 2029,
+            "Reviewer_Age__c": 67,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999823,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef50"
+            },
+            "Review__c": "Great speakers!!!!",
+            "Review_Date__c": "2021-05-18",
+            "Prediction_Result__c": "0.989784",
+            "Response_Time_ms__c": 1716,
+            "Reviewer_Age__c": 31,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.989784,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef51"
+            },
+            "Review__c": "excellent speakers for what I needed.  Not looking for a big booming sound, just easy listening. The quality is very good. Very satisfied",
+            "Review_Date__c": "2021-06-28",
+            "Prediction_Result__c": "0.999946",
+            "Response_Time_ms__c": 1991,
+            "Reviewer_Age__c": 46,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999946,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef52"
+            },
+            "Review__c": "Great speakers and great sound as expected from Acme.",
+            "Review_Date__c": "2020-12-31",
+            "Prediction_Result__c": "0.999859",
+            "Response_Time_ms__c": 1313,
+            "Reviewer_Age__c": 54,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999859,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef53"
+            },
+            "Review__c": "I have 3 pair of these and they work great, could use a little more base but the sound quality is impressive. I have 1 pair in my automotive area, 1 pair in my man cave and 1 pair in my deer processing area. The ceilings are 15 foot tall, the auto area is 23x36 and with just two of these, they fill the room. Now again, not a lot of base but my receiver I am feeding them with has an equalizer so I was able to boost the  base up some.",
+            "Review_Date__c": "2021-02-02",
+            "Prediction_Result__c": "0.551025",
+            "Response_Time_ms__c": 1380,
+            "Reviewer_Age__c": 46,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.551025,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef54"
+            },
+            "Review__c": "I have an area of 600 sq. ft. that has been remodeled into &#34;my&#34; room for my albums, foosball and kickback area.  The sound that speakers give me is phenomenal for the area.  No complaints for my application.",
+            "Review_Date__c": "2020-12-17",
+            "Prediction_Result__c": "0.979688",
+            "Response_Time_ms__c": 1179,
+            "Reviewer_Age__c": 49,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.979688,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef55"
+            },
+            "Review__c": "nice sound, works great for my area",
+            "Review_Date__c": "2021-03-26",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1994,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef56"
+            },
+            "Review__c": "this product great",
+            "Review_Date__c": "2022-03-31",
+            "Prediction_Result__c": "0.972958",
+            "Response_Time_ms__c": 2856,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.972958,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef57"
+            },
+            "Review__c": "This is the best product",
+            "Review_Date__c": "2022-03-31",
+            "Prediction_Result__c": "0.999824",
+            "Response_Time_ms__c": 5782,
+            "Reviewer_Age__c": 32,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999824,
+            "Customer_Product__c": "@Customer_Product__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef58"
+            },
+            "Review__c": "excellent acoustic„ÄÅexcellent quality and good price.",
+            "Review_Date__c": "2021-08-13",
+            "Prediction_Result__c": "0.999865",
+            "Response_Time_ms__c": 2795,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999865,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef59"
+            },
+            "Review__c": "Loved it. Amazing home theatre experience.. initially thought it needs no receiver... but you will need one.. I used Yamaha RX-V375 5.1 Channel 3D A/V Home Theatre Receiver. It worked great! Loved the &#34;Acme&#34; experience as always. Whished it could come with wireless speakers :)",
+            "Review_Date__c": "2021-01-26",
+            "Prediction_Result__c": "0.999999",
+            "Response_Time_ms__c": 2031,
+            "Reviewer_Age__c": 68,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999999,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef60"
+            },
+            "Review__c": "Its a good  acoustimass i like it",
+            "Review_Date__c": "2021-07-08",
+            "Prediction_Result__c": "0.999861",
+            "Response_Time_ms__c": 2036,
+            "Reviewer_Age__c": 53,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999861,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef61"
+            },
+            "Review__c": "I return Boss acoustimass 6home",
+            "Review_Date__c": "2021-07-15",
+            "Prediction_Result__c": "0.999982",
+            "Response_Time_ms__c": 2935,
+            "Reviewer_Age__c": 50,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999982,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef62"
+            },
+            "Review__c": "good sound",
+            "Review_Date__c": "2021-05-04",
+            "Prediction_Result__c": "0.990852",
+            "Response_Time_ms__c": 1686,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.990852,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef63"
+            },
+            "Review__c": "Fantastic sound for such small speakers.",
+            "Review_Date__c": "2021-07-11",
+            "Prediction_Result__c": "0.999965",
+            "Response_Time_ms__c": 1566,
+            "Reviewer_Age__c": 26,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999965,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef64"
+            },
+            "Review__c": "The Acme AM 6 speakers are attractive and small, so they won't distract from the room decor. The bass module on the other hand may prove a little more conspicuous, as it is rather large, and their recommended setup of having them horizontal to the wall leaves the unit looking like the side of an old computer tower... The proprietary wiring/cabling makes it rather cumbersome; you will end up with a big bundle of wiring near the bass module you'll have to figure out what to do with.<br /><br />The surround effects and sounds were very good while watching movies.  Despite the cube speakers small size, they will fill a good size room with good, but not great sound.<br /><br />Listening to music was unfortunately a bit disappointing.  The highs were a little &#34;tinny&#34; and not crisp.  Bass at times was not very defined; it sounded a little &#34;sloppy&#34; for lack of a better term.  Some music sounded very good, while some sounded very average.  The quality of the source and the style of music at times can complement the system, but overall she sound was good, not great.<br /><br />If aesthetics are important, this system is one of the least intrusive decor wise (excluding the bass module), which adds value.  If you mostly watch movies, and the room size is medium to small, you may be very satisfied.<br /><br />If, on the other hand you appreciate high fidelity music reproduction, and value that more than other factors, you'll find better value elsewhere.",
+            "Review_Date__c": "2021-03-04",
+            "Prediction_Result__c": "0.999968",
+            "Response_Time_ms__c": 4397,
+            "Reviewer_Age__c": 45,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999968,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef65"
+            },
+            "Review__c": "Amazing sound,service from seller thank you so much. Happy,Happy",
+            "Review_Date__c": "2021-04-20",
+            "Prediction_Result__c": "0.999998",
+            "Response_Time_ms__c": 3991,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999998,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef66"
+            },
+            "Review__c": "Can this play on a TV without using a receiver",
+            "Review_Date__c": "2021-04-21",
+            "Prediction_Result__c": "0.930867",
+            "Response_Time_ms__c": 3508,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.930867,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef67"
+            },
+            "Review__c": "Excellent sound, easy to install, good looking cube speakers",
+            "Review_Date__c": "2020-11-16",
+            "Prediction_Result__c": "0.999995",
+            "Response_Time_ms__c": 3813,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999995,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef68"
+            },
+            "Review__c": "This was purchased as a gift and the person love it.",
+            "Review_Date__c": "2021-04-19",
+            "Prediction_Result__c": "0.998935",
+            "Response_Time_ms__c": 4302,
+            "Reviewer_Age__c": 40,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998935,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef69"
+            },
+            "Review__c": "Awesome",
+            "Review_Date__c": "2021-06-08",
+            "Prediction_Result__c": "0.995307",
+            "Response_Time_ms__c": 3279,
+            "Reviewer_Age__c": 66,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.995307,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef70"
+            },
+            "Review__c": "good price love it, the sound is very good.",
+            "Review_Date__c": "2021-08-06",
+            "Prediction_Result__c": "0.999989",
+            "Response_Time_ms__c": 2813,
+            "Reviewer_Age__c": 31,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999989,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef71"
+            },
+            "Review__c": "I've had a Acme surround sound system on my boat for over seven years.  Cabin size is 10 x 12.  The sound quality is excellent for music and movies.  My friends in the marina would much rather watch movies on my boat than any of theirs.  That is specifically because of my Acme system.  I'm not an electronics whiz.  I am just a regular guy who truly appreciates what this system does.  Buy one and you won't be disappointed.",
+            "Review_Date__c": "2021-02-08",
+            "Prediction_Result__c": "0.999997",
+            "Response_Time_ms__c": 4316,
+            "Reviewer_Age__c": 59,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999997,
+            "Star_Rating__c": "5",
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef72"
+            },
+            "Review__c": "awesome price..",
+            "Review_Date__c": "2021-08-09",
+            "Prediction_Result__c": "0.999804",
+            "Response_Time_ms__c": 3679,
+            "Reviewer_Age__c": 65,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999804,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef73"
+            },
+            "Review__c": "This is a great system and was easy to set up.",
+            "Review_Date__c": "2021-06-03",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 5306,
+            "Reviewer_Age__c": 60,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef74"
+            },
+            "Review__c": "Completely satisfied",
+            "Review_Date__c": "2021-07-19",
+            "Prediction_Result__c": "0.992175",
+            "Response_Time_ms__c": 2208,
+            "Reviewer_Age__c": 67,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.992175,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef75"
+            },
+            "Review__c": "Acme, what more can I say?",
+            "Review_Date__c": "2021-08-15",
+            "Prediction_Result__c": "0.951000",
+            "Response_Time_ms__c": 3165,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.951,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef76"
+            },
+            "Review__c": "Great !",
+            "Review_Date__c": "2021-05-19",
+            "Prediction_Result__c": "0.995355",
+            "Response_Time_ms__c": 2152,
+            "Reviewer_Age__c": 47,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.995355,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef77"
+            },
+            "Review__c": "Why does this require a review? It's the undisputed king of middle-class surround sound systems. It will never win an award for fidelity but compared to the competitors, it's an excellent bargain for good quality sound.",
+            "Review_Date__c": "2021-05-21",
+            "Prediction_Result__c": "0.999971",
+            "Response_Time_ms__c": 3064,
+            "Reviewer_Age__c": 44,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999971,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef78"
+            },
+            "Review__c": "I have lots and Lots and Lots of Acme Products for well over 30 years when it comes to a nice clean sound Acme is TOP OF THE LINE",
+            "Review_Date__c": "2021-04-15",
+            "Prediction_Result__c": "0.999342",
+            "Response_Time_ms__c": 2342,
+            "Reviewer_Age__c": 68,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999342,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef79"
+            },
+            "Review__c": "Excellent Product, Price And Delivery.",
+            "Review_Date__c": "2021-05-21",
+            "Prediction_Result__c": "0.999997",
+            "Response_Time_ms__c": 1842,
+            "Reviewer_Age__c": 55,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999997,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef80"
+            },
+            "Review__c": "The system is fantastic and brings the music alive in my house. I would never buy any speaker but Acme",
+            "Review_Date__c": "2021-08-18",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1413,
+            "Reviewer_Age__c": 52,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef81"
+            },
+            "Review__c": "great sounding Acme Accoustmass speakers.  I've wanted some of these for so long.....",
+            "Review_Date__c": "2021-08-20",
+            "Prediction_Result__c": "0.995012",
+            "Response_Time_ms__c": 1883,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.995012,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef82"
+            },
+            "Review__c": "Subwoofer DOA. Satellite speakers tinny and lifeless, my TV sounds better on it's own. Threw it out.",
+            "Review_Date__c": "2021-08-25",
+            "Prediction_Result__c": "0.298977",
+            "Response_Time_ms__c": 1565,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.298977,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef83"
+            },
+            "Review__c": "Great sound - you really feel like you are part of the action",
+            "Review_Date__c": "2021-07-04",
+            "Prediction_Result__c": "0.999860",
+            "Response_Time_ms__c": 1347,
+            "Reviewer_Age__c": 36,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99986,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef84"
+            },
+            "Review__c": "Awesome sound and easy installation!",
+            "Review_Date__c": "2020-12-22",
+            "Prediction_Result__c": "0.999997",
+            "Response_Time_ms__c": 1168,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999997,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef85"
+            },
+            "Review__c": "Fast shipping and product as described",
+            "Review_Date__c": "2021-07-22",
+            "Prediction_Result__c": "0.977958",
+            "Response_Time_ms__c": 2340,
+            "Reviewer_Age__c": 48,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.977958,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef86"
+            },
+            "Review__c": "Great sound..I know there is a newer model but they work just as well for the price. Very cost efficient for the quality.",
+            "Review_Date__c": "2021-07-25",
+            "Prediction_Result__c": "0.999998",
+            "Response_Time_ms__c": 2539,
+            "Reviewer_Age__c": 34,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999998,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef87"
+            },
+            "Review__c": "This item when I first saw it, it was 700$ so I added it to my wish list, a few months later it went down to 400$ which is amazing. When you purchase this you're going to need a receiver as well, and I bought a Yamaha receiver. To connect everything was easy and the Acme speaker sounds amazing and very loud!",
+            "Review_Date__c": "2021-03-16",
+            "Prediction_Result__c": "0.999997",
+            "Response_Time_ms__c": 4803,
+            "Reviewer_Age__c": 39,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999997,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef88"
+            },
+            "Review__c": "Thanks I'm satisfied it sounds amazing",
+            "Review_Date__c": "2021-08-18",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1764,
+            "Reviewer_Age__c": 74,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef89"
+            },
+            "Review__c": "I've wanted a set of Acme Acoustimass speakers for years.  It was my father's day gift to myself.  I've really enjoyed it.  So have the girlfriend, the kids and their friends.  I love the surround effects and how the room shakes when watching movies.",
+            "Review_Date__c": "2021-08-18",
+            "Prediction_Result__c": "0.999992",
+            "Response_Time_ms__c": 4329,
+            "Reviewer_Age__c": 56,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999992,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef90"
+            },
+            "Review__c": "perfect!",
+            "Review_Date__c": "2021-08-27",
+            "Prediction_Result__c": "0.995642",
+            "Response_Time_ms__c": 2197,
+            "Reviewer_Age__c": 67,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.995642,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef91"
+            },
+            "Review__c": "Excellent for the price",
+            "Review_Date__c": "2021-05-27",
+            "Prediction_Result__c": "0.999981",
+            "Response_Time_ms__c": 2375,
+            "Reviewer_Age__c": 71,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999981,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef92"
+            },
+            "Review__c": "You cannot beat this price!<br />The sound is great!",
+            "Review_Date__c": "2021-04-20",
+            "Prediction_Result__c": "0.999913",
+            "Response_Time_ms__c": 1896,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999913,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef93"
+            },
+            "Review__c": "Exceeded my expectations paired with Onkyo 333.",
+            "Review_Date__c": "2021-06-15",
+            "Prediction_Result__c": "0.992944",
+            "Response_Time_ms__c": 1521,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.992944,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef94"
+            },
+            "Review__c": "I have waited a long time to be able to purchase these speakers, and I am very happy with them.",
+            "Review_Date__c": "2021-06-28",
+            "Prediction_Result__c": "0.999896",
+            "Response_Time_ms__c": 1740,
+            "Reviewer_Age__c": 74,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999896,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef95"
+            },
+            "Review__c": "Awesome piece of equipment with easy set up",
+            "Review_Date__c": "2021-04-06",
+            "Prediction_Result__c": "0.999998",
+            "Response_Time_ms__c": 2367,
+            "Reviewer_Age__c": 40,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999998,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef96"
+            },
+            "Review__c": "Easy set up. My neighbors hate me now. 5/5",
+            "Review_Date__c": "2021-02-24",
+            "Prediction_Result__c": "0.999707",
+            "Response_Time_ms__c": 2900,
+            "Reviewer_Age__c": 57,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999707,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef97"
+            },
+            "Review__c": "Not good",
+            "Review_Date__c": "2021-03-15",
+            "Prediction_Result__c": "0.290165",
+            "Response_Time_ms__c": 2000,
+            "Reviewer_Age__c": 46,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.290165,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef98"
+            },
+            "Review__c": "I'm happy, it is a nice purchase! The product is excellent.",
+            "Review_Date__c": "2021-03-31",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 3635,
+            "Reviewer_Age__c": 61,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef99"
+            },
+            "Review__c": "Better than I expected. You cannot beat with Acme!",
+            "Review_Date__c": "2021-07-12",
+            "Prediction_Result__c": "0.971249",
+            "Response_Time_ms__c": 2554,
+            "Reviewer_Age__c": 62,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.971249,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef100"
+            },
+            "Review__c": "Excellent sound at a great price.  These were close out and were well worth the money.",
+            "Review_Date__c": "2021-08-04",
+            "Prediction_Result__c": "0.999997",
+            "Response_Time_ms__c": 1361,
+            "Reviewer_Age__c": 65,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.999997,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef101"
+            },
+            "Review__c": "i bought these direct from Acme and I cannot get them to sync sound properly it is a great set but I have issues with them",
+            "Review_Date__c": "2021-06-08",
+            "Prediction_Result__c": "0.999964",
+            "Response_Time_ms__c": 4542,
+            "Reviewer_Age__c": 53,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999964,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef102"
+            },
+            "Review__c": "sound nice",
+            "Review_Date__c": "2021-07-10",
+            "Prediction_Result__c": "0.995058",
+            "Response_Time_ms__c": 4105,
+            "Reviewer_Age__c": 43,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.995058,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef103"
+            },
+            "Review__c": "good",
+            "Review_Date__c": "2021-08-22",
+            "Prediction_Result__c": "0.869910",
+            "Response_Time_ms__c": 4050,
+            "Reviewer_Age__c": 51,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.86991,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef104"
+            },
+            "Review__c": "I got this for my brother he loved it",
+            "Review_Date__c": "2021-06-09",
+            "Prediction_Result__c": "0.999989",
+            "Response_Time_ms__c": 3591,
+            "Reviewer_Age__c": 58,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999989,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef105"
+            },
+            "Review__c": "Excellent",
+            "Review_Date__c": "2021-07-04",
+            "Prediction_Result__c": "0.991819",
+            "Response_Time_ms__c": 4521,
+            "Reviewer_Age__c": 46,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.991819,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef106"
+            },
+            "Review__c": "Awesome for Movies and Music.",
+            "Review_Date__c": "2021-08-06",
+            "Prediction_Result__c": "0.999786",
+            "Response_Time_ms__c": 4937,
+            "Reviewer_Age__c": 47,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999786,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef107"
+            },
+            "Review__c": "Above my expectations. Bass really impressive.<br />Easly to install.",
+            "Review_Date__c": "2021-08-12",
+            "Prediction_Result__c": "0.992351",
+            "Response_Time_ms__c": 4316,
+            "Reviewer_Age__c": 25,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.992351,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef108"
+            },
+            "Review__c": "Amazing sound!!!!  Even better than my older version of the Acme speakers.  Easy install and everything is top of line!",
+            "Review_Date__c": "2021-03-14",
+            "Prediction_Result__c": "0.999420",
+            "Response_Time_ms__c": 3860,
+            "Reviewer_Age__c": 25,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.99942,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef109"
+            },
+            "Review__c": "I really LOVE these speakers.  My home theater thanks me for purchasing these.",
+            "Review_Date__c": "2021-07-18",
+            "Prediction_Result__c": "0.998702",
+            "Response_Time_ms__c": 3675,
+            "Reviewer_Age__c": 42,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.998702,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef110"
+            },
+            "Review__c": "Like everybody else says it is easy to set up.  Wires are color coded and it is almost impossible to make a mistake.  However...what disappointed me the most was the subwoofer.  I have 2 Kilspch subwoofers that shake the room.  This one is barely audible up front and close.  You have to put your hand on the subwoofer to hear a light vibration.  But the size is almost as big as my two other Kilpsch SWs.  This was for a family room where I could not position any large speakers, it is a very asymmetric room.  Yet they are connected to a Samsung 48 in 4K curved TV.  We have to make do, I guess.",
+            "Review_Date__c": "2021-08-23",
+            "Prediction_Result__c": "0.014167",
+            "Response_Time_ms__c": 2714,
+            "Reviewer_Age__c": 55,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.014167,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef111"
+            },
+            "Review__c": "Amazing !!",
+            "Review_Date__c": "2021-04-21",
+            "Prediction_Result__c": "0.999336",
+            "Response_Time_ms__c": 3739,
+            "Reviewer_Age__c": 64,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.999336,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef112"
+            },
+            "Review__c": "Compact and sounding great",
+            "Review_Date__c": "2021-06-17",
+            "Prediction_Result__c": "1.000000",
+            "Response_Time_ms__c": 1610,
+            "Reviewer_Age__c": 70,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 1,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef113"
+            },
+            "Review__c": "I have used Acme speakers for many years, they never disappointed me",
+            "Review_Date__c": "2021-06-01",
+            "Prediction_Result__c": "0.054361",
+            "Response_Time_ms__c": 3099,
+            "Reviewer_Age__c": 52,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.054361,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef114"
+            },
+            "Review__c": "Its ok. Bass is not impressive lacks ..",
+            "Review_Date__c": "2021-08-08",
+            "Prediction_Result__c": "0.000034",
+            "Response_Time_ms__c": 1382,
+            "Reviewer_Age__c": 40,
+            "Reviewer_Sex__c": "M",
+            "Sentiment_Score__c": 0.000034,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Product_Review__c",
+                "referenceId": "Product_Review__cRef115"
+            },
+            "Review__c": "Its good",
+            "Review_Date__c": "2021-03-13",
+            "Prediction_Result__c": "0.910362",
+            "Response_Time_ms__c": 2470,
+            "Reviewer_Age__c": 38,
+            "Reviewer_Sex__c": "F",
+            "Sentiment_Score__c": 0.910362,
+            "Customer_Product__c": "@Customer_Product__cRef2"
+        }
+    ]
+}

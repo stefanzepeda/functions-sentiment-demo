@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Customer_Product__c",
+                "referenceId": "Customer_Product__cRef1"
+            },
+            "Name": "Acme AE2 Around-Ear Audio Headphones",
+            "Description__c": "Music makes you feel free. Wires shouldn’t get in the way of that. wireless headphones are engineered for exceptional sound, which stays consistent at any volume thanks to a combination of exclusive technologies. With clear calls in any environment, durable materials and a comfortable fit, you can experience wireless freedom. And uncompromised performance.",
+            "Image__c": "bose_ae2_around_ear_headphones.png"
+        }
+    ]
+}

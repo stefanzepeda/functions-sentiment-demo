@@ -1,0 +1,82 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" controller="LMO_UtilityClass">
+    <aura:attribute name="getSentimentInput" type="String" />
+    <aura:attribute name="IsSpinner" type="Boolean" default="false" />
+    <aura:attribute name="getSentimentPredictionOutput" type="String" />
+    <aura:attribute type="Sentiment_Analysis__c[]" name="SentimentAnalysisList" />
+    <aura:handler name="init" value="{!this}" action="{!c.getSentimentAnalysis}" />
+    <aura:attribute name="DisabledButton" type="Boolean" default="false" />
+    <!-- <aura:if isTrue="{!v.IsSpinner}">
+        <center>
+            <div>
+                <lightning:spinner alternativeText="Loading" size="large" />
+            </div>
+        </center>
+    </aura:if> -->
+    <lightning:card>
+        <div> <b style="color: blue;font-size : 20px"> 
+      Sentiment Analysis (Running)</b> </div>
+        <br/>
+        <br/>
+        <div class="container">
+            <div Style="float: left; width: 50%; height: 100px;">
+                <table>
+                    <tr>
+                        <td>Sentiment Input</td>
+                        <td>
+                            <lightning:input style="width:280px" type="String" name="SentimentInput" value="{!v.getSentimentInput}" /> </td>
+                    </tr>
+                </table>
+            </div>
+            <br/>
+            <div style="font-size:20px;"> <b>Sentiment Prediction Output</b>: {!v.getSentimentPredictionOutput}</div>
+            <br/>
+            <br/>
+            <br/>
+            <br/> </div>
+        <center>
+            <lightning:button disabled="{!v.DisabledButton}" variant="brand" label="Sentiments Model" onclick="{! c.PredictionSentiments }" /> </center>
+        <br/>
+        <br/>
+        <div> <b style="color: blue;font-size : 20px">Sentiments Past Predictions </b> <small>(THIS TABLE WILL SHOW LATEST 5 SENTIMENTS RECORDS)</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <lightning:icon iconName="utility:refresh" alternativeText="Refresh" title="Refresh" onclick="{! c.getSentimentAnalysis }" /> </div>
+        <br/>
+        <table class="slds-table slds-table_bordered slds-table_cell-buffer">
+            <thead>
+                <tr class="slds-text-title_caps">
+                    <th scope="col">
+                        <div class="slds-truncate">Sentiment Analysis Record Name</div>
+                    </th>
+                    <th scope="col">
+                        <div class="slds-truncate">Sentiments Input</div>
+                    </th>
+                    <th scope="col">
+                        <div class="slds-truncate">Sentiments Prediction Result</div>
+                    </th>
+                    <th scope="col">
+                        <div class="slds-truncate">Response Time (In ms)</div>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <aura:iteration items="{!v.SentimentAnalysisList}" var="a">
+                    <tr>
+                        <td data-label="Industry">
+                            <div class="slds-truncate" title="">{!a.Name}</div>
+                        </td>
+                        <td data-label="Account Name">
+                            <div class="slds-truncate" title="">{!a.Sentiments_Input__c}</div>
+                        </td>
+                        <td data-label="Industry">
+                            <div class="slds-truncate" title="">{!a.Sentiments_Prediction_Output__c}</div>
+                        </td>
+                        <td data-label="Account Name">
+                            <div class="slds-truncate" title="">{!a.Response_Time__c}</div>
+                        </td>
+                    </tr>
+                </aura:iteration>
+            </tbody>
+        </table>
+        <br/>
+        <br/>
+        <br/> </lightning:card>
+</aura:component>
